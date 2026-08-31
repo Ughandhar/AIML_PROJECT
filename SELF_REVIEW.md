@@ -239,3 +239,55 @@
 | W1D5 | Data Visualisation | ✓ COMPLETE |
 
 ---
+
+---
+
+# W2D1 — Feature Engineering & Encoding
+
+## Encoding
+
+- ✓ OneHotEncoder demonstrated
+- ✓ OrdinalEncoder demonstrated
+- ✓ LabelEncoder demonstrated
+- ✓ Encoding trade-offs documented
+
+## Scaling
+
+- ✓ StandardScaler applied
+- ✓ MinMaxScaler applied
+- ✓ RobustScaler applied
+- ✓ Scaling distributions compared using box plots
+- ✓ Scaling methods compared and documented
+
+## Feature Selection
+
+- ✓ SelectKBest applied using ANOVA F-test
+- ✓ Top 5 features identified
+- ✓ Feature scores calculated
+- ✓ Feature importance documented
+- ✓ Experience excluded based on lowest score
+
+## Code Quality
+
+- ✓ Clear variable names used
+- ✓ Code is readable
+- ✓ Notebook outputs verified
+- ✓ No unnecessary code left in notebook
+
+## Evidence
+
+- ✓ Notebook outputs verified
+- ✓ CIA review completed
+- ✓ Second CIA interaction completed
+
+## Git
+
+- ✓ Feature branch used
+- ✓ Meaningful commits completed
+- ✓ Changes pushed to GitHub
+- ✓ Pull Request created
+- ✓ Pull Request merged into main
+
+### W2D1 Status
+
+✓ COMPLETE
