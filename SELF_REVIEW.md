@@ -239,3 +239,44 @@
 | W1D5 | Data Visualisation | ✓ COMPLETE |
 
 ---
+
+---
+
+# W2D2 — Feature Scaling & Selection
+
+## Feature Scaling
+
+- ✓ Original feature distributions plotted
+- ✓ StandardScaler applied
+- ✓ StandardScaler distribution plotted
+- ✓ MinMaxScaler applied
+- ✓ MinMaxScaler distribution plotted
+- ✓ RobustScaler applied
+- ✓ RobustScaler distribution plotted
+- ✓ Scaling methods compared
+
+## Feature Selection
+
+- ✓ SelectKBest applied using ANOVA F-test
+- ✓ Top 5 features identified
+- ✓ Feature scores calculated
+- ✓ Reasons for selected features documented
+
+## Top 5 Features
+
+1. ✓ Score
+2. ✓ Hours_Study
+3. ✓ Age
+4. ✓ Salary
+5. ✓ Projects
+
+## Code Quality
+
+- ✓ Clear variable names used
+- ✓ Code is readable
+- ✓ Notebook outputs verified
+- ✓ No unnecessary code left in notebook
+
+### W2D2 Status
+
+✓ COMPLETE
