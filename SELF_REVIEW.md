@@ -239,3 +239,31 @@
 | W1D5 | Data Visualisation | ✓ COMPLETE |
 
 ---
+
+## CIA Mentor Interactions
+
+### Interaction 1 — Code Review
+
+Discussed the implementation of SMOTE with the CIA mentor and reviewed the approach for handling class imbalance.
+
+Key feedback:
+
+- Check the class distribution before applying SMOTE.
+- Use SMOTE only on the training data after train-test splitting.
+- Verify the class distribution after resampling.
+- Avoid data leakage when using oversampling techniques.
+
+### Interaction 2 — Concept Review
+
+Discussed how SMOTE generates synthetic minority-class samples instead of simply duplicating existing samples.
+
+Key learning:
+
+- SMOTE helps balance minority and majority classes.
+- Synthetic samples are generated using interpolation between minority-class observations.
+- The value of `k_neighbors` affects how synthetic samples are generated.
+- The resampled dataset should be checked after applying SMOTE.
+
+## CIA Outcome
+
+The CIA interactions helped me understand both the practical implementation and the correct use of SMOTE in a machine learning workflow.
