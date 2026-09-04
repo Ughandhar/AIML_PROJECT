@@ -267,3 +267,65 @@ Key learning:
 ## CIA Outcome
 
 The CIA interactions helped me understand both the practical implementation and the correct use of SMOTE in a machine learning workflow.
+
+---
+
+# Week 2 — Day 4 Self Review
+
+## Topic
+
+Train/Test Split & Cross-Validation
+
+## What I Learned
+
+Today I learned how to split a dataset into training and testing sets and how cross-validation is used to evaluate model performance.
+
+## Practical Work Completed
+
+- Created a dataset with numerical features and a binary target.
+- Separated features (X) and target (y).
+- Applied an 80/20 train-test split.
+- Used `stratify=y` to maintain class distribution.
+- Built a Pipeline using `StandardScaler` and `LogisticRegression`.
+- Trained the model and made predictions.
+- Evaluated the model on the test data.
+- Applied 5-fold cross-validation.
+- Calculated the mean cross-validation accuracy.
+- Documented the cross-validation warning caused by the small minority class.
+
+## Results
+
+Test Accuracy: **100%**
+
+Cross-validation scores:
+
+- Fold 1: 100%
+- Fold 2: 100%
+- Fold 3: 66.67%
+- Fold 4: 100%
+- Fold 5: 66.67%
+
+Mean Cross-Validation Accuracy: **86.67%**
+
+## Key Learning
+
+Train-test splitting helps evaluate a model on unseen data.
+
+Cross-validation provides a more reliable estimate of model performance by evaluating the model across multiple folds.
+
+Using `StandardScaler` inside a Pipeline helps prevent data leakage during cross-validation.
+
+## Challenges
+
+The dataset has only 3 minority-class samples, so using 5-fold cross-validation produced a warning.
+
+A larger dataset would be more suitable for reliable cross-validation in a real project.
+
+## CIA Interaction
+
+- CIA Interaction 1: Completed — Train/Test Split
+- CIA Interaction 2: Completed — Cross-Validation
+
+## Final Takeaway
+
+I learned how to split data correctly, build a preprocessing and model pipeline, evaluate test performance, and use cross-validation to better understand model performance.
