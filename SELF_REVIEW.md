@@ -242,33 +242,30 @@
 
 ---
 
-# W2D2 — Feature Scaling & Selection
+# W2D1 — Feature Engineering & Encoding
 
-## Feature Scaling
+## Encoding
 
-- ✓ Original feature distributions plotted
+- ✓ OneHotEncoder demonstrated
+- ✓ OrdinalEncoder demonstrated
+- ✓ LabelEncoder demonstrated
+- ✓ Encoding trade-offs documented
+
+## Scaling
+
 - ✓ StandardScaler applied
-- ✓ StandardScaler distribution plotted
 - ✓ MinMaxScaler applied
-- ✓ MinMaxScaler distribution plotted
 - ✓ RobustScaler applied
-- ✓ RobustScaler distribution plotted
-- ✓ Scaling methods compared
+- ✓ Scaling distributions compared using box plots
+- ✓ Scaling methods compared and documented
 
 ## Feature Selection
 
 - ✓ SelectKBest applied using ANOVA F-test
 - ✓ Top 5 features identified
 - ✓ Feature scores calculated
-- ✓ Reasons for selected features documented
-
-## Top 5 Features
-
-1. ✓ Score
-2. ✓ Hours_Study
-3. ✓ Age
-4. ✓ Salary
-5. ✓ Projects
+- ✓ Feature importance documented
+- ✓ Experience excluded based on lowest score
 
 ## Code Quality
 
@@ -277,6 +274,20 @@
 - ✓ Notebook outputs verified
 - ✓ No unnecessary code left in notebook
 
-### W2D2 Status
+## Evidence
+
+- ✓ Notebook outputs verified
+- ✓ CIA review completed
+- ✓ Second CIA interaction completed
+
+## Git
+
+- ✓ Feature branch used
+- ✓ Meaningful commits completed
+- ✓ Changes pushed to GitHub
+- ✓ Pull Request created
+- ✓ Pull Request merged into main
+
+### W2D1 Status
 
 ✓ COMPLETE
