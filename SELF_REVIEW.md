@@ -329,3 +329,55 @@ A larger dataset would be more suitable for reliable cross-validation in a real 
 ## Final Takeaway
 
 I learned how to split data correctly, build a preprocessing and model pipeline, evaluate test performance, and use cross-validation to better understand model performance.
+
+---
+
+# Week 2 — Day 5 Self Review
+
+## Topic
+
+End-to-End Preprocessing Pipeline
+
+## What I Learned
+
+Today I learned how to build an end-to-end preprocessing pipeline for machine learning.
+
+## Practical Work Completed
+
+- Created a dataset containing missing values and categorical data.
+- Separated features and target.
+- Identified numeric and categorical features.
+- Applied median imputation to numeric features.
+- Applied most-frequent imputation to categorical features.
+- Applied StandardScaler to numeric features.
+- Applied OneHotEncoder to categorical features.
+- Combined preprocessing using ColumnTransformer.
+- Created a complete preprocessing and Logistic Regression pipeline.
+- Exported processed features to a CSV file.
+- Verified the exported processed dataset.
+- Tested the complete ML pipeline with predictions.
+
+## Results
+
+Original features: **4**
+
+Processed features: **7**
+
+Processed dataset: **10 rows × 7 columns**
+
+Predictions matched the actual target values for all 10 samples.
+
+## Key Learning
+
+A preprocessing pipeline allows missing-value handling, encoding, scaling, and model training to be performed consistently as one workflow.
+
+Using a Pipeline and ColumnTransformer makes the preprocessing process cleaner and helps avoid data leakage.
+
+## CIA Interaction
+
+- CIA Interaction 1: Completed — End-to-End Preprocessing Pipeline
+- CIA Interaction 2: Completed — Missing Values, Encoding and Scaling
+
+## Final Takeaway
+
+I learned how to prepare raw data and transform it into ML-ready features using an end-to-end preprocessing pipeline.
