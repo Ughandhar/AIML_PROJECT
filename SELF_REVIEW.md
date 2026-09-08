@@ -290,4 +290,32 @@
 
 ### W2D1 Status
 
-✓ COMPLETE
+I learned how to prepare raw data and transform it into ML-ready features using an end-to-end preprocessing pipeline.
+
+# Week 3 — Day 1 Self Review
+
+## Topic
+
+Linear Regression, Ridge Regression and Lasso Regression
+
+## Completed
+
+- Trained Linear Regression
+- Evaluated using MSE, RMSE, MAE and R²
+- Created Actual vs Predicted plot
+- Analyzed residuals
+- Trained Ridge Regression
+- Trained Lasso Regression
+- Compared all three models
+- Completed CIA interactions
+
+## Results
+
+- Linear Regression R²: 0.999312
+- Ridge Regression R²: 0.998252
+- Lasso Regression R²: 0.999206
+- Best model on this test set: Linear Regression
+
+## Key Learning
+
+Learned how Linear, Ridge and Lasso Regression work and how to compare regression models using evaluation metrics.
