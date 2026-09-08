@@ -409,3 +409,30 @@ Linear Regression, Ridge Regression and Lasso Regression
 ## Key Learning
 
 Learned how Linear, Ridge and Lasso Regression work and how to compare regression models using evaluation metrics.
+
+# Week 3 — Day 2 Self Review
+
+## Topic
+
+Logistic Regression & Classification
+
+## Completed
+
+- Trained Logistic Regression model
+- Printed coefficients and intercept
+- Made class predictions and probabilities
+- Evaluated using Accuracy, Confusion Matrix and Classification Report
+- Plotted Confusion Matrix
+- Plotted Decision Boundary
+- Calculated ROC-AUC
+- Completed CIA interactions
+
+## Results
+
+- Accuracy: 1.0
+- ROC-AUC: 1.0
+- Best result: Logistic Regression
+
+## Key Learning
+
+Learned how Logistic Regression performs binary classification using probabilities, decision boundaries and classification evaluation metrics.
