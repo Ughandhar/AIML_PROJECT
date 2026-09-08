@@ -382,57 +382,61 @@ Using a Pipeline and ColumnTransformer makes the preprocessing process cleaner a
 
 I learned how to prepare raw data and transform it into ML-ready features using an end-to-end preprocessing pipeline.
 
-# Week 3 — Day 1 Self Review
+WEEK 3 CHECKLIST
 
-## Topic
+W3D1 - Linear Regression
+✓ Create branch
+✓ Create notebook
+✓ Import libraries
+✓ Create dataset
+✓ Define X and y
+✓ Train/test split
+✓ Train Linear Regression
+✓ Print coefficient & intercept
+✓ Make predictions
+✓ MSE
+✓ RMSE
+✓ MAE
+✓ R²
+✓ Predicted vs Actual plot
+✓ Residual analysis
+✓ Train Ridge Regression
+✓ Train Lasso Regression
+✓ Compare all 3 models
+✓ CIA interactions
+✓ Update SELF_REVIEW.md
+✓ Make 2 commits
+✓ Push branch
+✓ Create PR
+✓ Merge PR
 
-Linear Regression, Ridge Regression and Lasso Regression
+STATUS: W3D1 COMPLETE
 
-## Completed
+W3D2 - Linear Regression / Practical Tasks
+✓ Create branch
+✓ Create notebook
+✓ Import libraries
+✓ Create dataset
+✓ Define X and y
+✓ Train/test split
+✓ Train Linear Regression
+✓ Print coefficient & intercept
+✓ Make predictions
+✓ MSE
+✓ RMSE
+✓ MAE
+✓ R²
+✓ Predicted vs Actual plot
+✓ Calculate residuals
+✓ Residual plot
+✓ Train Ridge Regression
+✓ Train Lasso Regression
+✓ Compare all 3 models
+✓ Final output
+✓ Update SELF_REVIEW.md
+✓ Make 2 commits
+✓ Push branch
+✓ Create PR
+✓ Merge PR
 
-- Trained Linear Regression
-- Evaluated using MSE, RMSE, MAE and R²
-- Created Actual vs Predicted plot
-- Analyzed residuals
-- Trained Ridge Regression
-- Trained Lasso Regression
-- Compared all three models
-- Completed CIA interactions
-
-## Results
-
-- Linear Regression R²: 0.999312
-- Ridge Regression R²: 0.998252
-- Lasso Regression R²: 0.999206
-- Best model on this test set: Linear Regression
-
-## Key Learning
-
-Learned how Linear, Ridge and Lasso Regression work and how to compare regression models using evaluation metrics.
-
-# Week 3 — Day 2 Self Review
-
-## Topic
-
-Logistic Regression & Classification
-
-## Completed
-
-- Trained Logistic Regression model
-- Printed coefficients and intercept
-- Made class predictions and probabilities
-- Evaluated using Accuracy, Confusion Matrix and Classification Report
-- Plotted Confusion Matrix
-- Plotted Decision Boundary
-- Calculated ROC-AUC
-- Completed CIA interactions
-
-## Results
-
-- Accuracy: 1.0
-- ROC-AUC: 1.0
-- Best result: Logistic Regression
-
-## Key Learning
-
-Learned how Logistic Regression performs binary classification using probabilities, decision boundaries and classification evaluation metrics.
+STATUS: W3D2 COMPLETE
