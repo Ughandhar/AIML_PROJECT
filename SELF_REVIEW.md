@@ -366,3 +366,30 @@ STATUS: W3D2 COMPLETE
 - ✓ Output evidence completed
 
 ### W3D3 Status: COMPLETE
+
+## W3D4 — SVM & KNN
+
+- ✓ Created W3D4 branch
+- ✓ Created SVM & KNN notebook
+- ✓ Imported required libraries
+- ✓ Created dataset
+- ✓ Defined features and target
+- ✓ Train/test split completed
+- ✓ Trained SVM model
+- ✓ SVM predictions generated
+- ✓ SVM evaluation completed
+- ✓ Trained KNN model
+- ✓ KNN predictions generated
+- ✓ KNN evaluation completed
+- ✓ Compared SVM and KNN
+- ✓ Created accuracy comparison plot
+- ✓ CIA interactions completed
+- ✓ Output evidence completed
+- ✓ Self-review completed
+- ✓ Commit 1
+- ✓ Commit 2
+- ✓ Push
+- ✓ PR created
+- ✓ PR merged
+
+**W3D4: ✓ COMPLETED**
