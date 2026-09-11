@@ -393,3 +393,28 @@ STATUS: W3D2 COMPLETE
 - ✓ PR merged
 
 **W3D4: ✓ COMPLETED**
+
+## W3D5 — Hyperparameter Tuning
+
+- ✓ Created W3D5 branch
+- ✓ Created GridSearch & RandomSearch notebook
+- ✓ Imported required libraries
+- ✓ Created dataset
+- ✓ Defined features and target
+- ✓ Train/test split completed
+- ✓ GridSearchCV completed
+- ✓ RandomizedSearchCV completed
+- ✓ Compared best hyperparameters
+- ✓ Evaluated both models on test data
+- ✓ Created comparison table
+- ✓ Created accuracy comparison plot
+- ✓ CIA review completed
+- ✓ Output evidence completed
+- ✓ Self-review completed
+- ✓ Commit 1
+- ✓ Commit 2
+- ✓ Push
+- ✓ PR created
+- ✓ PR merged
+
+**W3D5: ✓ COMPLETED**
