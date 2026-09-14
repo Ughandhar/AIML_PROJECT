@@ -418,3 +418,31 @@ STATUS: W3D2 COMPLETE
 - ✓ PR merged
 
 **W3D5: ✓ COMPLETED**
+W4D1 — Model Evaluation Metrics
+✓ Created W4D1 branch
+✓ Created Model Evaluation Metrics notebook
+✓ Imported required libraries
+✓ Created dataset
+✓ Defined features and target
+✓ Train/test split completed
+✓ Logistic Regression model trained
+✓ Predictions generated
+✓ Precision calculated
+✓ Recall calculated
+✓ F1-Score calculated
+✓ Confusion Matrix created
+✓ Classification Report generated
+✓ ROC Curve created
+✓ ROC-AUC calculated
+✓ Created metrics comparison table
+✓ Created metrics comparison plot
+✓ CIA review completed
+✓ Output evidence completed
+✓ Self-review completed
+✓ Commit 1
+✓ Commit 2
+✓ Push
+✓ PR created
+✓ PR merged
+
+W4D1: ✓ COMPLETED
