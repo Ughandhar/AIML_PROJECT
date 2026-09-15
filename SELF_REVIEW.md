@@ -418,3 +418,24 @@ STATUS: W3D2 COMPLETE
 - ✓ PR merged
 
 **W3D5: ✓ COMPLETED**
+
+W4D2 — Bias-Variance Tradeoff & Regularisation
+
+- ✓ Created W4D2 branch
+- ✓ Created Bias-Variance & Regularisation notebook
+- ✓ Imported required libraries
+- ✓ Created dataset
+- ✓ Train/test split completed
+- ✓ Linear Regression implemented
+- ✓ Polynomial Regression implemented
+- ✓ Compared different polynomial degrees
+- ✓ Demonstrated model complexity and overfitting
+- ✓ Created noisy dataset
+- ✓ Ridge regularisation implemented
+- ✓ Lasso regularisation implemented
+- ✓ Compared Test RMSE
+- ✓ Created comparison table
+- ✓ Created comparison plot
+- ✓ CIA review completed
+- ✓ Output evidence completed
+- ✓ Self-review completed
