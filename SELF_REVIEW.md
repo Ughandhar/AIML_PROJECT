@@ -439,3 +439,4 @@ W4D2 — Bias-Variance Tradeoff & Regularisation
 - ✓ CIA review completed
 - ✓ Output evidence completed
 - ✓ Self-review completed
+  Key learning: High bias causes underfitting, while high variance causes overfitting. Ridge and Lasso regularisation help control model complexity and improve generalisation.
