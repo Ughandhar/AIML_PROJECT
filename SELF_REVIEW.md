@@ -418,31 +418,25 @@ STATUS: W3D2 COMPLETE
 - ✓ PR merged
 
 **W3D5: ✓ COMPLETED**
-W4D1 — Model Evaluation Metrics
-✓ Created W4D1 branch
-✓ Created Model Evaluation Metrics notebook
-✓ Imported required libraries
-✓ Created dataset
-✓ Defined features and target
-✓ Train/test split completed
-✓ Logistic Regression model trained
-✓ Predictions generated
-✓ Precision calculated
-✓ Recall calculated
-✓ F1-Score calculated
-✓ Confusion Matrix created
-✓ Classification Report generated
-✓ ROC Curve created
-✓ ROC-AUC calculated
-✓ Created metrics comparison table
-✓ Created metrics comparison plot
-✓ CIA review completed
-✓ Output evidence completed
-✓ Self-review completed
-✓ Commit 1
-✓ Commit 2
-✓ Push
-✓ PR created
-✓ PR merged
 
-W4D1: ✓ COMPLETED
+W4D2 — Bias-Variance Tradeoff & Regularisation
+
+- ✓ Created W4D2 branch
+- ✓ Created Bias-Variance & Regularisation notebook
+- ✓ Imported required libraries
+- ✓ Created dataset
+- ✓ Train/test split completed
+- ✓ Linear Regression implemented
+- ✓ Polynomial Regression implemented
+- ✓ Compared different polynomial degrees
+- ✓ Demonstrated model complexity and overfitting
+- ✓ Created noisy dataset
+- ✓ Ridge regularisation implemented
+- ✓ Lasso regularisation implemented
+- ✓ Compared Test RMSE
+- ✓ Created comparison table
+- ✓ Created comparison plot
+- ✓ CIA review completed
+- ✓ Output evidence completed
+- ✓ Self-review completed
+  Key learning: High bias causes underfitting, while high variance causes overfitting. Ridge and Lasso regularisation help control model complexity and improve generalisation.
