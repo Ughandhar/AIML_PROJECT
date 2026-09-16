@@ -440,3 +440,4 @@ W4D3 — Model Serialisation
 - ✓ CIA review completed
 - ✓ Output evidence completed
 - ✓ Self-review completed
+  Key learning: Model serialization allows trained models to be saved and loaded later using Joblib or Pickle without retraining from scratch.
