@@ -418,25 +418,26 @@ STATUS: W3D2 COMPLETE
 - ✓ PR merged
 
 **W3D5: ✓ COMPLETED**
+W4D3 — Model Serialisation
 
-W4D2 — Bias-Variance Tradeoff & Regularisation
-
-- ✓ Created W4D2 branch
-- ✓ Created Bias-Variance & Regularisation notebook
+- ✓ Created W4D3 branch
+- ✓ Created Model Serialisation notebook
 - ✓ Imported required libraries
 - ✓ Created dataset
+- ✓ Defined features and target
 - ✓ Train/test split completed
-- ✓ Linear Regression implemented
-- ✓ Polynomial Regression implemented
-- ✓ Compared different polynomial degrees
-- ✓ Demonstrated model complexity and overfitting
-- ✓ Created noisy dataset
-- ✓ Ridge regularisation implemented
-- ✓ Lasso regularisation implemented
-- ✓ Compared Test RMSE
-- ✓ Created comparison table
-- ✓ Created comparison plot
+- ✓ Logistic Regression model trained
+- ✓ Model evaluated
+- ✓ Model saved using Joblib
+- ✓ Model loaded using Joblib
+- ✓ Joblib predictions verified
+- ✓ Model saved using Pickle
+- ✓ Model loaded using Pickle
+- ✓ Pickle predictions verified
+- ✓ Compared Joblib and Pickle
+- ✓ Verified saved model files
+- ✓ Conclusion added
 - ✓ CIA review completed
 - ✓ Output evidence completed
 - ✓ Self-review completed
-  Key learning: High bias causes underfitting, while high variance causes overfitting. Ridge and Lasso regularisation help control model complexity and improve generalisation.
+  Key learning: Model serialization allows trained models to be saved and loaded later using Joblib or Pickle without retraining from scratch.
