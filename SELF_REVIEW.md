@@ -418,3 +418,25 @@ STATUS: W3D2 COMPLETE
 - ✓ PR merged
 
 **W3D5: ✓ COMPLETED**
+W4D3 — Model Serialisation
+
+- ✓ Created W4D3 branch
+- ✓ Created Model Serialisation notebook
+- ✓ Imported required libraries
+- ✓ Created dataset
+- ✓ Defined features and target
+- ✓ Train/test split completed
+- ✓ Logistic Regression model trained
+- ✓ Model evaluated
+- ✓ Model saved using Joblib
+- ✓ Model loaded using Joblib
+- ✓ Joblib predictions verified
+- ✓ Model saved using Pickle
+- ✓ Model loaded using Pickle
+- ✓ Pickle predictions verified
+- ✓ Compared Joblib and Pickle
+- ✓ Verified saved model files
+- ✓ Conclusion added
+- ✓ CIA review completed
+- ✓ Output evidence completed
+- ✓ Self-review completed
