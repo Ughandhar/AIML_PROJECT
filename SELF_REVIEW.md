@@ -418,3 +418,35 @@ STATUS: W3D2 COMPLETE
 - ✓ PR merged
 
 **W3D5: ✓ COMPLETED**
+
+## W4D4 — FastAPI Model Serving Endpoint
+
+- ✓ Created FastAPI model-serving application
+- ✓ Loaded trained Logistic Regression model
+- ✓ Created `/` health endpoint
+- ✓ Created `/predict` prediction endpoint
+- ✓ Added Pydantic input validation
+- ✓ Tested API using Swagger UI
+- ✓ Verified HTTP 200 response
+- ✓ Verified prediction output
+- ✓ Completed CIA Review 1
+- ✓ Completed CIA Review 2
+- ✓ Captured API output evidence
+
+Key learning: FastAPI can expose a trained machine learning model through a REST API, allowing clients to send input data and receive predictions.
+
+## W4D4 — FastAPI Model Serving Endpoint
+
+- ✓ Created FastAPI model-serving application
+- ✓ Loaded trained Logistic Regression model
+- ✓ Created `/` health endpoint
+- ✓ Created `/predict` prediction endpoint
+- ✓ Added Pydantic input validation
+- ✓ Tested API using Swagger UI
+- ✓ Verified HTTP 200 response
+- ✓ Verified prediction output
+- ✓ Completed CIA Review 1
+- ✓ Completed CIA Review 2
+- ✓ Captured API output evidence
+
+Key learning: FastAPI can expose a trained machine learning model through a REST API, allowing clients to send input data and receive predictions.
