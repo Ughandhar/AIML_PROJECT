@@ -418,26 +418,37 @@ STATUS: W3D2 COMPLETE
 - ✓ PR merged
 
 **W3D5: ✓ COMPLETED**
-W4D3 — Model Serialisation
 
-- ✓ Created W4D3 branch
-- ✓ Created Model Serialisation notebook
-- ✓ Imported required libraries
-- ✓ Created dataset
-- ✓ Defined features and target
-- ✓ Train/test split completed
-- ✓ Logistic Regression model trained
-- ✓ Model evaluated
-- ✓ Model saved using Joblib
-- ✓ Model loaded using Joblib
-- ✓ Joblib predictions verified
-- ✓ Model saved using Pickle
-- ✓ Model loaded using Pickle
-- ✓ Pickle predictions verified
-- ✓ Compared Joblib and Pickle
-- ✓ Verified saved model files
-- ✓ Conclusion added
-- ✓ CIA review completed
-- ✓ Output evidence completed
-- ✓ Self-review completed
-  Key learning: Model serialization allows trained models to be saved and loaded later using Joblib or Pickle without retraining from scratch.
+## W4D4 — FastAPI Model Serving Endpoint
+
+- ✓ Created FastAPI model-serving application
+- ✓ Loaded trained Logistic Regression model
+- ✓ Created `/` health endpoint
+- ✓ Created `/predict` prediction endpoint
+- ✓ Added Pydantic input validation
+- ✓ Tested API using Swagger UI
+- ✓ Verified HTTP 200 response
+- ✓ Verified prediction output
+- ✓ Completed CIA Review 1
+- ✓ Completed CIA Review 2
+- ✓ Captured API output evidence
+
+Key learning: FastAPI can expose a trained machine learning model through a REST API, allowing clients to send input data and receive predictions.
+
+## W4D4 — FastAPI Model Serving Endpoint
+
+- ✓ Created FastAPI model-serving application
+- ✓ Loaded trained Logistic Regression model
+- ✓ Created `/` health endpoint
+- ✓ Created `/predict` prediction endpoint
+- ✓ Added Pydantic input validation
+- ✓ Tested API using Swagger UI
+- ✓ Verified HTTP 200 response
+- ✓ Verified prediction output
+- ✓ Completed CIA Review 1
+- ✓ Completed CIA Review 2
+- ✓ Captured API output evidence
+
+Key learning: FastAPI can expose a trained machine learning model through a REST API, allowing clients to send input data and receive predictions.
+
+- ✓ Documented API endpoints: `GET /` and `POST /predict`
