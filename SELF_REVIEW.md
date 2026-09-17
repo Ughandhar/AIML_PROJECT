@@ -450,3 +450,5 @@ Key learning: FastAPI can expose a trained machine learning model through a REST
 - ✓ Captured API output evidence
 
 Key learning: FastAPI can expose a trained machine learning model through a REST API, allowing clients to send input data and receive predictions.
+
+- ✓ Documented API endpoints: `GET /` and `POST /predict`
