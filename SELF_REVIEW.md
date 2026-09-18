@@ -418,3 +418,22 @@ STATUS: W3D2 COMPLETE
 - ✓ PR merged
 
 **W3D5: ✓ COMPLETED**
+
+## W4D5 — 1M Capstone: Sentiment Classifier
+
+- ✓ Created sentiment classification dataset
+- ✓ Split data into training and testing sets
+- ✓ Applied TF-IDF text feature extraction
+- ✓ Trained Logistic Regression
+- ✓ Generated classification report
+- ✓ Generated confusion matrix
+- ✓ Generated ROC-AUC curve
+- ✓ Trained Random Forest
+- ✓ Generated Random Forest classification report
+- ✓ Compared Accuracy, Precision, Recall, and F1
+- ✓ Created model performance comparison chart
+- ✓ Completed CIA Review 1
+- ✓ Completed CIA Review 2
+- ✓ Documented capstone conclusion
+
+Key learning: A complete ML workflow requires text preprocessing, model training, multiple evaluation metrics, and comparison of models rather than relying on accuracy alone.
