@@ -419,36 +419,23 @@ STATUS: W3D2 COMPLETE
 
 **W3D5: ✓ COMPLETED**
 
-## W4D4 — FastAPI Model Serving Endpoint
+## W4D5 — 1M Capstone: Sentiment Classifier
 
-- ✓ Created FastAPI model-serving application
-- ✓ Loaded trained Logistic Regression model
-- ✓ Created `/` health endpoint
-- ✓ Created `/predict` prediction endpoint
-- ✓ Added Pydantic input validation
-- ✓ Tested API using Swagger UI
-- ✓ Verified HTTP 200 response
-- ✓ Verified prediction output
+- ✓ Created sentiment classification dataset
+- ✓ Split data into training and testing sets
+- ✓ Applied TF-IDF text feature extraction
+- ✓ Trained Logistic Regression
+- ✓ Generated classification report
+- ✓ Generated confusion matrix
+- ✓ Generated ROC-AUC curve
+- ✓ Trained Random Forest
+- ✓ Generated Random Forest classification report
+- ✓ Compared Accuracy, Precision, Recall, and F1
+- ✓ Created model performance comparison chart
 - ✓ Completed CIA Review 1
 - ✓ Completed CIA Review 2
-- ✓ Captured API output evidence
+- ✓ Documented capstone conclusion
 
-Key learning: FastAPI can expose a trained machine learning model through a REST API, allowing clients to send input data and receive predictions.
+Key learning: A complete ML workflow requires text preprocessing, model training, multiple evaluation metrics, and comparison of models rather than relying on accuracy alone.
 
-## W4D4 — FastAPI Model Serving Endpoint
-
-- ✓ Created FastAPI model-serving application
-- ✓ Loaded trained Logistic Regression model
-- ✓ Created `/` health endpoint
-- ✓ Created `/predict` prediction endpoint
-- ✓ Added Pydantic input validation
-- ✓ Tested API using Swagger UI
-- ✓ Verified HTTP 200 response
-- ✓ Verified prediction output
-- ✓ Completed CIA Review 1
-- ✓ Completed CIA Review 2
-- ✓ Captured API output evidence
-
-Key learning: FastAPI can expose a trained machine learning model through a REST API, allowing clients to send input data and receive predictions.
-
-- ✓ Documented API endpoints: `GET /` and `POST /predict`
+- ✓ Documented the limitation of the 4-sample test set
