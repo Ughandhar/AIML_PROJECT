@@ -437,3 +437,5 @@ STATUS: W3D2 COMPLETE
 - ✓ Documented capstone conclusion
 
 Key learning: A complete ML workflow requires text preprocessing, model training, multiple evaluation metrics, and comparison of models rather than relying on accuracy alone.
+
+- ✓ Documented the limitation of the 4-sample test set
