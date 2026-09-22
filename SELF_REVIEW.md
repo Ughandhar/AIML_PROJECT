@@ -419,23 +419,26 @@ STATUS: W3D2 COMPLETE
 
 **W3D5: ✓ COMPLETED**
 
-## W4D5 — 1M Capstone: Sentiment Classifier
+## Week 5 Day 1 — Local LLM Inference with Ollama
 
-- ✓ Created sentiment classification dataset
-- ✓ Split data into training and testing sets
-- ✓ Applied TF-IDF text feature extraction
-- ✓ Trained Logistic Regression
-- ✓ Generated classification report
-- ✓ Generated confusion matrix
-- ✓ Generated ROC-AUC curve
-- ✓ Trained Random Forest
-- ✓ Generated Random Forest classification report
-- ✓ Compared Accuracy, Precision, Recall, and F1
-- ✓ Created model performance comparison chart
-- ✓ Completed CIA Review 1
-- ✓ Completed CIA Review 2
-- ✓ Documented capstone conclusion
+### Checklist
 
-Key learning: A complete ML workflow requires text preprocessing, model training, multiple evaluation metrics, and comparison of models rather than relying on accuracy alone.
+☑ Installed Ollama on Windows
+☑ Verified Ollama installation
+☑ Downloaded and ran llama3.2:3b
+☑ Performed first local LLM inference
+☑ Installed the Ollama Python package
+☑ Connected Python to Ollama API
+☑ Created a custom system prompt
+☑ Tested 5 prompts with the local LLM
+☑ Downloaded qwen2.5:3b
+☑ Compared llama3.2:3b and qwen2.5:3b using the same 5 prompts
+☑ Completed CIA interactions
 
-- ✓ Documented the limitation of the 4-sample test set
+### Key Learning
+
+Learned how to run Large Language Models locally using Ollama and interact with them through Python. Compared two 3B parameter models and observed that Llama 3.2 generally produced more detailed responses, while Qwen 2.5 generally produced shorter and more direct responses.
+
+### Tools Used
+
+Ollama, Llama 3.2:3b, Qwen 2.5:3b, Python, Ollama Python API
