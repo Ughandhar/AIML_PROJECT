@@ -442,3 +442,27 @@ Learned how to run Large Language Models locally using Ollama and interact with 
 ### Tools Used
 
 Ollama, Llama 3.2:3b, Qwen 2.5:3b, Python, Ollama Python API
+
+## Week 5 Day 2 — Prompt Engineering & System Prompts with Ollama
+
+### Checklist
+
+☑ Created and tested custom system prompts  
+☑ Tested basic, role-based, and structured prompting  
+☑ Tested 5 robotics prompts with Ollama  
+☑ Implemented few-shot prompting  
+☑ Compared zero-shot and few-shot prompting  
+☑ Tested prompt output constraints  
+☑ Combined system instructions with few-shot examples  
+☑ Compared llama3.2:3b and qwen2.5:3b using the same 3 robotics questions  
+☑ Compared responses for ROS, PID controller, and LiDAR  
+☑ Documented differences in response style and detail  
+☑ Completed CIA interactions
+
+### Key Learning
+
+Learned how system prompts, few-shot examples, and output constraints can guide the behaviour and format of local LLM responses. Compared Llama 3.2:3b and Qwen 2.5:3b using identical robotics questions and observed differences in response detail and style.
+
+### Tools Used
+
+Ollama, Llama 3.2:3b, Qwen 2.5:3b, Python, Ollama Python API
