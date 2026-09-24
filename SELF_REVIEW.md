@@ -466,3 +466,30 @@ Learned how system prompts, few-shot examples, and output constraints can guide 
 ### Tools Used
 
 Ollama, Llama 3.2:3b, Qwen 2.5:3b, Python, Ollama Python API
+
+## Week 5 Day 3 — ChromaDB: Vector Store Setup & Embedding Documents
+
+### Checklist
+
+☑ Installed and configured ChromaDB  
+☑ Created a ChromaDB collection using cosine similarity  
+☑ Added 20 robotics/AI documents with embeddings  
+☑ Performed cosine similarity search  
+☑ Retrieved the top-3 relevant documents  
+☑ Added metadata to documents  
+☑ Tested metadata filtering  
+☑ Manually verified similarity search and metadata filtering  
+☑ Connected ChromaDB with Ollama  
+☑ Retrieved top-3 chunks for a RAG query  
+☑ Passed retrieved context to Llama 3.2:3b  
+☑ Generated a context-based RAG answer  
+☑ Verified the complete ChromaDB + Ollama RAG flow  
+☑ Completed CIA interactions
+
+### Key Learning
+
+Learned how vector databases store embedded documents and retrieve semantically similar information using cosine similarity. Also learned how retrieved context can be combined with a local LLM to build a simple Retrieval-Augmented Generation (RAG) pipeline.
+
+### Tools Used
+
+ChromaDB 1.5.9, Ollama, Llama 3.2:3b, Python 3.12, Python Ollama API
