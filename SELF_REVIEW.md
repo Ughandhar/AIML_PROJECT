@@ -418,3 +418,26 @@ STATUS: W3D2 COMPLETE
 - ✓ PR merged
 
 **W3D5: ✓ COMPLETED**
+
+## Week 5 Day 5 — Local Q&A Bot with Ollama + ChromaDB
+
+### Checklist
+
+☑ Created W5D5 local Q&A bot notebook
+☑ Verified Ollama local connection
+☑ Configured a custom system prompt
+☑ Created a reusable Ollama Q&A function
+☑ Tested the bot with 5 robotics questions
+☑ Compared llama3.2:3b and qwen2.5:3b
+☑ Used the same 3 questions for both models
+☑ Documented response differences
+☑ Verified local model inference
+☑ Completed CIA interactions
+
+### Key Learning
+
+Learned how to build a local Q&A bot using Ollama and a custom system prompt. Also compared llama3.2:3b and qwen2.5:3b using the same robotics questions and observed differences in response detail and conciseness.
+
+### Tools Used
+
+Ollama, llama3.2:3b, qwen2.5:3b, Python 3.12, Jupyter Notebook
