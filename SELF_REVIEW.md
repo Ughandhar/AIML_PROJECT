@@ -419,105 +419,25 @@ STATUS: W3D2 COMPLETE
 
 **W3D5: ✓ COMPLETED**
 
-## Week 5 Day 1 — Local LLM Inference with Ollama
+## Week 5 Day 5 — Local Q&A Bot with Ollama + ChromaDB
 
 ### Checklist
 
-☑ Installed Ollama on Windows
-☑ Verified Ollama installation
-☑ Downloaded and ran llama3.2:3b
-☑ Performed first local LLM inference
-☑ Installed the Ollama Python package
-☑ Connected Python to Ollama API
-☑ Created a custom system prompt
-☑ Tested 5 prompts with the local LLM
-☑ Downloaded qwen2.5:3b
-☑ Compared llama3.2:3b and qwen2.5:3b using the same 5 prompts
+☑ Created W5D5 local Q&A bot notebook
+☑ Verified Ollama local connection
+☑ Configured a custom system prompt
+☑ Created a reusable Ollama Q&A function
+☑ Tested the bot with 5 robotics questions
+☑ Compared llama3.2:3b and qwen2.5:3b
+☑ Used the same 3 questions for both models
+☑ Documented response differences
+☑ Verified local model inference
 ☑ Completed CIA interactions
 
 ### Key Learning
 
-Learned how to run Large Language Models locally using Ollama and interact with them through Python. Compared two 3B parameter models and observed that Llama 3.2 generally produced more detailed responses, while Qwen 2.5 generally produced shorter and more direct responses.
+Learned how to build a local Q&A bot using Ollama and a custom system prompt. Also compared llama3.2:3b and qwen2.5:3b using the same robotics questions and observed differences in response detail and conciseness.
 
 ### Tools Used
 
-Ollama, Llama 3.2:3b, Qwen 2.5:3b, Python, Ollama Python API
-
-## Week 5 Day 2 — Prompt Engineering & System Prompts with Ollama
-
-### Checklist
-
-☑ Created and tested custom system prompts  
-☑ Tested basic, role-based, and structured prompting  
-☑ Tested 5 robotics prompts with Ollama  
-☑ Implemented few-shot prompting  
-☑ Compared zero-shot and few-shot prompting  
-☑ Tested prompt output constraints  
-☑ Combined system instructions with few-shot examples  
-☑ Compared llama3.2:3b and qwen2.5:3b using the same 3 robotics questions  
-☑ Compared responses for ROS, PID controller, and LiDAR  
-☑ Documented differences in response style and detail  
-☑ Completed CIA interactions
-
-### Key Learning
-
-Learned how system prompts, few-shot examples, and output constraints can guide the behaviour and format of local LLM responses. Compared Llama 3.2:3b and Qwen 2.5:3b using identical robotics questions and observed differences in response detail and style.
-
-### Tools Used
-
-Ollama, Llama 3.2:3b, Qwen 2.5:3b, Python, Ollama Python API
-
-## Week 5 Day 3 — ChromaDB: Vector Store Setup & Embedding Documents
-
-### Checklist
-
-☑ Installed and configured ChromaDB  
-☑ Created a ChromaDB collection using cosine similarity  
-☑ Added 20 robotics/AI documents with embeddings  
-☑ Performed cosine similarity search  
-☑ Retrieved the top-3 relevant documents  
-☑ Added metadata to documents  
-☑ Tested metadata filtering  
-☑ Manually verified similarity search and metadata filtering  
-☑ Connected ChromaDB with Ollama  
-☑ Retrieved top-3 chunks for a RAG query  
-☑ Passed retrieved context to Llama 3.2:3b  
-☑ Generated a context-based RAG answer  
-☑ Verified the complete ChromaDB + Ollama RAG flow  
-☑ Completed CIA interactions
-
-### Key Learning
-
-Learned how vector databases store embedded documents and retrieve semantically similar information using cosine similarity. Also learned how retrieved context can be combined with a local LLM to build a simple Retrieval-Augmented Generation (RAG) pipeline.
-
-### Tools Used
-
-ChromaDB 1.5.9, Ollama, Llama 3.2:3b, Python 3.12, Python Ollama API
-
-## Week 5 Day 4 — Semantic Search with ChromaDB
-
-### Checklist
-
-☑ Created ChromaDB collection using cosine similarity  
-☑ Added 20 robotics documents with embeddings  
-☑ Performed semantic similarity search  
-☑ Tested metadata filtering  
-☑ Manually verified search results  
-☑ Created and used a robotics reference PDF  
-☑ Extracted PDF text using PyPDF  
-☑ Split the PDF into 10 semantic chunks  
-☑ Stored PDF chunks and metadata in ChromaDB  
-☑ Performed semantic search on PDF chunks  
-☑ Retrieved top-3 relevant PDF chunks  
-☑ Passed retrieved PDF context to Llama 3.2:3b  
-☑ Generated an answer using retrieved PDF context  
-☑ Verified the complete PDF → ChromaDB → Ollama RAG flow  
-☑ Completed CIA interactions
-
-### Key Learning
-
-Learned how semantic search can be applied to information extracted from a PDF. The PDF was divided into meaningful chunks, embedded and stored in ChromaDB, and the most relevant chunks were retrieved using cosine similarity. The retrieved context was then passed to Llama 3.2:3b to generate a context-based answer.
-
-### Tools Used
-
-ChromaDB 1.5.9, PyPDF 6.19.0, Ollama, Llama 3.2:3b, Python 3.12
+Ollama, llama3.2:3b, qwen2.5:3b, Python 3.12, Jupyter Notebook
