@@ -41,7 +41,7 @@
 
 ---
 
-# W1D2 — Pandas Data Manipulation
+# W1D2 ï¿½ Pandas Data Manipulation
 
 ## Pandas
 
@@ -83,7 +83,7 @@
 
 ---
 
-# W1D3 — Data Loading, Cleaning & Inspection
+# W1D3 ï¿½ Data Loading, Cleaning & Inspection
 
 ## Data Loading
 
@@ -129,7 +129,7 @@
 
 ---
 
-# W1D4 — Exploratory Data Analysis
+# W1D4 ï¿½ Exploratory Data Analysis
 
 ## Dataset Inspection
 
@@ -181,7 +181,7 @@
 
 ---
 
-# W1D5 — Data Visualisation
+# W1D5 ï¿½ Data Visualisation
 
 ## Visualisation
 
@@ -242,7 +242,7 @@
 
 ---
 
-# W2D1 — Feature Engineering & Encoding
+# W2D1 ï¿½ Feature Engineering & Encoding
 
 ## Encoding
 
@@ -307,7 +307,7 @@ W3D1 - Linear Regression
 ? MSE
 ? RMSE
 ? MAE
-? R²
+? Rï¿½
 ? Predicted vs Actual plot
 ? Residual analysis
 ? Train Ridge Regression
@@ -335,7 +335,7 @@ W3D2 - Linear Regression / Practical Tasks
 ? MSE
 ? RMSE
 ? MAE
-? R²
+? Rï¿½
 ? Predicted vs Actual plot
 ? Calculate residuals
 ? Residual plot
@@ -367,7 +367,7 @@ STATUS: W3D2 COMPLETE
 
 ### W3D3 Status: COMPLETE
 
-## W3D4 — SVM & KNN
+## W3D4 ï¿½ SVM & KNN
 
 - ? Created W3D4 branch
 - ? Created SVM & KNN notebook
@@ -394,7 +394,7 @@ STATUS: W3D2 COMPLETE
 
 **W3D4: ? COMPLETED**
 
-## W3D5 — Hyperparameter Tuning
+## W3D5 ï¿½ Hyperparameter Tuning
 
 - ? Created W3D5 branch
 - ? Created GridSearch & RandomSearch notebook
@@ -419,7 +419,7 @@ STATUS: W3D2 COMPLETE
 
 **W3D5: ? COMPLETED**
 
-## W5D6 — LLM Cost Optimisation & Token Economics
+## W5D6 ï¿½ LLM Cost Optimisation & Token Economics
 
 - ? Created W5D6 branch
 - ? Created LLM cost optimisation notebook
