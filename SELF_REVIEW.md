@@ -418,3 +418,21 @@ STATUS: W3D2 COMPLETE
 - ✓ PR merged
 
 **W3D5: ✓ COMPLETED**
+
+## W6D2 — LangChain Memory & Conversation History
+
+- ✓ Created W6D2 branch
+- ✓ Created LangChain memory and conversation notebook
+- ✓ Configured LangChain with local Ollama
+- ✓ Built PromptTemplate → Ollama LLM → OutputParser chain
+- ✓ Tested chain with 5 inputs
+- ✓ Implemented ConversationBufferMemory
+- ✓ Verified conversation history across 5 turns
+- ✓ Built Agent with web search tool
+- ✓ Built Agent with calculator tool
+- ✓ Tested Agent with 3 tasks
+- ✓ Output evidence completed
+- ✓ Commit 1
+- ✓ Commit 2
+
+**W6D2: ✓ PRACTICAL WORK COMPLETED**
