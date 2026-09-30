@@ -609,20 +609,21 @@
 
 **W3D5: ✓ COMPLETED**
 
-## W6D2 — LangChain Memory & Conversation History
+## W6D3 — LangChain Tools & Agents
 
-- ✓ Created W6D2 branch
-- ✓ Created LangChain memory and conversation notebook
+- ✓ Created W6D3 branch
+- ✓ Created LangChain tools and agents notebook
 - ✓ Configured LangChain with local Ollama
 - ✓ Built PromptTemplate → Ollama LLM → OutputParser chain
 - ✓ Tested chain with 5 inputs
 - ✓ Implemented ConversationBufferMemory
 - ✓ Verified conversation history across 5 turns
-- ✓ Built Agent with web search tool
-- ✓ Built Agent with calculator tool
+- ✓ Built web search tool
+- ✓ Built calculator tool
+- ✓ Built LangChain Agent
 - ✓ Tested Agent with 3 tasks
+- ✓ Identified and handled calculator tool-call error
 - ✓ Output evidence completed
 - ✓ Commit 1
-- ✓ Commit 2
 
-**W6D2: ✓ PRACTICAL WORK COMPLETED**
+**W6D3: ✓ PRACTICAL WORK COMPLETED**
