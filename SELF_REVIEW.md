@@ -656,3 +656,32 @@
 ### W6D4 Status
 
 **✓ COMPLETE**
+
+W6D5 — Document Chatbot with LangChain
+
+- Built a LangChain chain using PromptTemplate, Ollama (qwen2.5:3b), and StrOutputParser.
+- Tested the chain with five different questions.
+- Implemented ConversationBufferMemory for conversation history.
+- Tested five conversation turns and verified stored history.
+- Created a web search tool using DuckDuckGoSearchRun.
+- Created a calculator tool for mathematical expressions.
+- Connected both tools to the Ollama model using bind_tools().
+- Implemented an agent execution loop to process tool calls.
+- Tested the agent three times.
+- Saved the notebook with code and execution outputs.
+- Verified LangChain imports and chain execution.
+- Verified answers for five test questions.
+- Verified conversation history across five turns.
+- Verified calculator results: 3920 and 235.0.
+- Verified web search retrieved ROS 2 information.
+- Verified the agent executed a calculator tool call and returned an answer.
+- Created feature branch feat/aiml-W6D5-ughandhar.
+- Committed the W6D5 notebook.
+- Committed the self-review.
+- Completed two CIA Full Stack Mentor Mode interactions.
+- Pushed the feature branch.
+- Created and merged the pull request.
+- Implemented and tested the chatbot chain, conversation memory, web search, calculator, and tool-calling loop.
+- Documented implementation details and test results in the notebook.
+
+w6d5 done completed
