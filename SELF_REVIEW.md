@@ -607,23 +607,52 @@
 - ✓ PR created
 - ✓ PR merged
 
-**W3D5: ✓ COMPLETED**
+## **W3D5: ✓ COMPLETED**
 
-## W6D3 — LangChain Tools & Agents
+# W6D4 — ChromaDB, Similarity Search & RAG Pipeline
 
-- ✓ Created W6D3 branch
-- ✓ Created LangChain tools and agents notebook
-- ✓ Configured LangChain with local Ollama
-- ✓ Built PromptTemplate → Ollama LLM → OutputParser chain
-- ✓ Tested chain with 5 inputs
-- ✓ Implemented ConversationBufferMemory
-- ✓ Verified conversation history across 5 turns
-- ✓ Built web search tool
-- ✓ Built calculator tool
-- ✓ Built LangChain Agent
-- ✓ Tested Agent with 3 tasks
-- ✓ Identified and handled calculator tool-call error
-- ✓ Output evidence completed
-- ✓ Commit 1
+## ChromaDB Setup
 
-**W6D3: ✓ PRACTICAL WORK COMPLETED**
+- ✓ ChromaDB collection created with cosine similarity
+- ✓ 20 robotics documents stored with embeddings
+- ✓ Unique document IDs verified
+- ✓ Document metadata verified
+
+## Similarity Search
+
+- ✓ Similarity search completed
+- ✓ Top 3 relevant documents retrieved
+- ✓ Cosine distances inspected
+- ✓ Metadata filtering tested
+- ✓ Retrieved results manually verified
+
+## PDF Processing & RAG
+
+- ✓ Robotics reference PDF created and loaded
+- ✓ PDF text extracted successfully
+- ✓ Text split into 4 overlapping chunks
+- ✓ PDF chunks embedded and stored in ChromaDB
+- ✓ Top 3 chunks retrieved for the question
+- ✓ Ollama `qwen2.5:3b` used to generate an answer
+- ✓ Answer checked against retrieved context
+- ✓ RAG verification passed
+
+## Evidence
+
+- ✓ Notebook outputs verified
+- ✓ PDF reference file saved
+- ✓ CIA Full Stack Mentor Mode — interaction 1
+- ✓ CIA Full Stack Mentor Mode — interaction 2
+
+## Git
+
+- ✓ Feature branch created
+- ✓ First meaningful commit completed
+- ✓ Second meaningful commit completed
+- ✓ Changes pushed to GitHub
+- ✓ Pull Request created
+- ✓ Pull Request merged into main
+
+### W6D4 Status
+
+**✓ COMPLETE**
