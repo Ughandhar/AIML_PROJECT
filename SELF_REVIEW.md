@@ -685,3 +685,134 @@ W6D5 — Document Chatbot with LangChain
 - Documented implementation details and test results in the notebook.
 
 w6d5 done completed
+W7D1 — FINAL REVIEW CHECKLIST
+
+1. HAYSTACK PIPELINE
+   ☑️ Haystack installed and working
+   ☑️ PyPDFToDocument used
+   ☑️ 5 PDF documents indexed
+   ☑️ InMemoryDocumentStore created
+   ☑️ BM25 Retriever created
+   ☑️ Extractive Reader created
+   ☑️ BM25 → Reader pipeline working
+   ☑️ Dense Retriever created
+   ☑️ Sentence Transformers embeddings used
+   ☑️ all-MiniLM-L6-v2 model used
+   ☑️ Dense → Reader pipeline working
+
+2. PDF DOCUMENTS
+   ☑️ robotics_reference.pdf
+   ☑️ robot_sensors.pdf
+   ☑️ pid_control.pdf
+   ☑️ ros2_basics.pdf
+   ☑️ computer_vision_robotics.pdf
+
+3. QUESTION EVALUATION
+   ☑️ 10 questions tested with BM25
+   ☑️ BM25 result: 10/10 — 100%
+   ☑️ Same 10 questions tested with Dense
+   ☑️ Dense result: 10/10 — 100%
+   ☑️ BM25 vs Dense comparison completed
+   ☑️ Evaluation/conclusion added to notebook
+
+4. GIT
+   ☑️ Correct branch: feat/aiml-W7D1-ughandhar
+   ☑️ Commit 1: f603ec4
+   feat: complete W7D1 Haystack RAG pipeline
+   ☑️ Commit 2: 7342487
+   docs: add W7D1 reference PDFs
+   ☑️ Minimum 2 meaningful commits completed
+   ☑️ Branch pushed to GitHub
+   ☑️ PR created
+
+5. CIA FULL STACK MENTOR REVIEW
+   ☑️ Mentor interaction/review 1 completed
+   ☑️ Mentor interaction/review 2 completed
+   ☑️ Mentor review evidence saved
+   ☑️ Mentor feedback addressed, if any
+
+6. SELF REVIEW
+   ☑️ SELF_REVIEW.md updated for W7D1
+   ☑️ 5 PDFs mentioned
+   ☑️ BM25 evaluation mentioned
+   ☑️ Dense evaluation mentioned
+   ☑️ BM25: 10/10 — 100% mentioned
+   ☑️ Dense: 10/10 — 100% mentioned
+   ☑️ BM25 vs Dense comparison mentioned
+   ☑️ Git commits mentioned
+   ☑️ Mentor review evidence mentioned
+
+7. FINAL VERIFICATION
+   ☑️ GitHub branch verified
+   ☑️ PR verified
+   ☑️ PR contains W7D1 notebook
+   ☑️ PR contains required PDF documents
+   ☑️ 2 meaningful commits visible
+   ☑️ Mentor review requirement verified
+   ☑️ SELF_REVIEW.md verified
+   W7D1 — FINAL REVIEW CHECKLIST
+   complted
+   W7D1 — FINAL REVIEW CHECKLIST
+
+8. HAYSTACK PIPELINE
+   ☑ Haystack installed and working
+   ☑ PyPDFToDocument used
+   ☑ 5 PDF documents indexed
+   ☑ InMemoryDocumentStore created
+   ☑ BM25 Retriever created
+   ☑ Extractive Reader created
+   ☑ BM25 → Reader pipeline working
+   ☑ Dense Retriever created
+   ☑ Sentence Transformers embeddings used
+   ☑ all-MiniLM-L6-v2 model used
+   ☑ Dense → Reader pipeline working
+
+9. PDF DOCUMENTS
+   ☑ robotics_reference.pdf
+   ☑ robot_sensors.pdf
+   ☑ pid_control.pdf
+   ☑ ros2_basics.pdf
+   ☑ computer_vision_robotics.pdf
+
+10. QUESTION EVALUATION
+    ☑ 10 questions tested with BM25
+    ☑ BM25 result: 10/10 — 100%
+    ☑ Same 10 questions tested with Dense
+    ☑ Dense result: 10/10 — 100%
+    ☑ BM25 vs Dense comparison completed
+    ☑ Evaluation/conclusion added to notebook
+
+11. GIT
+    ☑ Correct branch: feat/aiml-W7D1-ughandhar
+    ☑ Commit 1: f603ec4 — feat: complete W7D1 Haystack RAG pipeline
+    ☑ Commit 2: 7342487 — docs: add W7D1 reference PDFs
+    ☑ Minimum 2 meaningful commits completed
+    ⬜ Branch push pending
+    ⬜ PR creation pending
+
+12. CIA FULL STACK MENTOR REVIEW
+    ⬜ Mentor interaction/review 1 — pending verification
+    ⬜ Mentor interaction/review 2 — pending verification
+    ⬜ Mentor review evidence — pending verification
+    ⬜ Mentor feedback — pending verification
+
+13. SELF REVIEW
+    ☑ SELF_REVIEW.md updated for W7D1
+    ☑ 5 PDFs documented
+    ☑ BM25 evaluation documented
+    ☑ Dense evaluation documented
+    ☑ BM25: 10/10 — 100%
+    ☑ Dense: 10/10 — 100%
+    ☑ BM25 vs Dense comparison documented
+    ☑ Git commits documented
+
+14. FINAL VERIFICATION
+    ⬜ GitHub branch verification pending
+    ⬜ PR verification pending
+    ⬜ PR contents verification pending
+    ⬜ Mentor review verification pending
+
+W7D1 STATUS:
+🟢 Technical work complete
+🟢 Minimum 2 meaningful commits complete
+🟡 Push, PR and mentor verification pending
