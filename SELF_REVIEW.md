@@ -812,7 +812,62 @@ W7D1 — FINAL REVIEW CHECKLIST
     ⬜ PR contents verification pending
     ⬜ Mentor review verification pending
 
-W7D1 STATUS:
-🟢 Technical work complete
-🟢 Minimum 2 meaningful commits complete
-🟡 Push, PR and mentor verification pending
+W7D2 — FINAL REVIEW CHECKLIST
+
+1. HAYSTACK PIPELINE
+   ☑ Haystack installed and working
+   ☑ PyPDFToDocument used
+   ☑ 5 PDF documents indexed
+   ☑ InMemoryDocumentStore created
+   ☑ BM25 Retriever created
+   ☑ Extractive Reader created
+   ☑ BM25 → Reader pipeline working
+   ☑ Dense document embeddings created
+   ☑ Sentence Transformers used
+   ☑ all-MiniLM-L6-v2 model used
+   ☑ Dense Text Embedder created
+   ☑ Dense Retriever created
+   ☑ Dense → Reader pipeline working
+
+2. PDF DOCUMENTS
+   ☑ 5 PDF documents loaded
+   ☑ computer_vision_robotics.pdf
+   ☑ pid_control.pdf
+   ☑ robot_sensors.pdf
+   ☑ robotics_reference.pdf
+   ☑ ros2_basics.pdf
+
+3. QUESTION EVALUATION
+   ☑ 10 questions tested with BM25
+   ☑ BM25 result: 10/10 — 100%
+   ☑ 10 questions tested with Dense
+   ☑ Dense result: 10/10 — 100%
+   ☑ BM25 vs Dense comparison completed
+   ☑ Evaluation documented
+   ☑ W7D2_EVALUATION.md created
+
+4. GIT
+   ☑ Correct branch: feat/aiml-W7D2-ughandhar
+   ☑ Commit 1: 7f7bb4a — feat: complete W7D2 Haystack retrieval
+   ☑ Commit 2: 6c7e535 — docs: add W7D2 retrieval evaluation
+   ☑ Minimum 2 meaningful commits completed
+   ☑ git status checked
+   ☑ git log checked
+
+5. CIA / MENTOR
+   ☑ CIA interaction 1 completed
+   ☑ CIA interaction 2 completed
+   ☑ CIA review/evidence completed
+   ☑ CIA feedback recorded
+
+6. SELF REVIEW
+   ☑ Technical work completed
+   ☑ Output evidence checked
+   ☑ Notebook saved
+   ☑ Evaluation documented
+   ☑ Self-review completed
+
+7. SUBMISSION
+   ✓Branch push
+   ✓ PR creation
+   ✓ PR verification
