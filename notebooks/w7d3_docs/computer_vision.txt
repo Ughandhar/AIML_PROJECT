@@ -1,0 +1,1 @@
+Computer vision enables robots to understand and process visual information from cameras. OpenCV is a popular computer vision library that provides image processing, feature detection, object detection, and video analysis capabilities for robotics and artificial intelligence applications.
