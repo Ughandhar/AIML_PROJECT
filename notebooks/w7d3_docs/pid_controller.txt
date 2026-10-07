@@ -1,0 +1,1 @@
+A PID controller is a feedback control mechanism widely used in robotics and automation. It calculates an error between a desired setpoint and a measured process value. The controller uses proportional, integral, and derivative terms to reduce the error and improve system response.

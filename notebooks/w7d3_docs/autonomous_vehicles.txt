@@ -1,0 +1,1 @@
+Autonomous vehicles use sensors, perception algorithms, localization, planning, and control systems to navigate without continuous human input. Common sensors include cameras, LiDAR, radar, and ultrasonic sensors. The robotics software combines sensor data to understand the environment and make safe movement decisions.

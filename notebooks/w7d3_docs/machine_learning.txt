@@ -1,0 +1,1 @@
+Machine learning allows robots to learn patterns from data and make predictions or decisions. Supervised learning uses labeled data, while unsupervised learning discovers patterns in unlabeled data. Machine learning is commonly used in robotics for perception, classification, prediction, and intelligent decision-making.

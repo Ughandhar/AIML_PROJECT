@@ -1,0 +1,1 @@
+ROS 2 is a robotics middleware framework used to build distributed robotic applications. It provides communication between nodes using topics, services, and actions. ROS 2 supports tools for robot control, sensor integration, simulation, and autonomous robotics development.
