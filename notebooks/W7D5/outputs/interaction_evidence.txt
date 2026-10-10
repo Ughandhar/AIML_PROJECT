@@ -1,0 +1,9 @@
+W7D5 RAG Interaction Evidence
+
+Interaction 1
+Question: What is RAG?
+Answer: Retrieval-Augmented Generation (RAG) is a technique that combines the capabilities of document retrieval systems and natural language generation. It works by utilizing a document retrieval system to find relevant documents that can provide context and information to answer a question. Once the relevant documents are identified, RAG uses the information from these documents to generate a context-based answer to the question.
+
+Interaction 2
+Question: What is MLOps?
+Answer: MLOps is a term that combines machine learning, software engineering, and operations to streamline the process of managing machine learning models and experiments. It focuses on automating and automating the deployment of machine learning models into production environments, ensuring that experiments can be tracked, evaluated, and models managed efficiently.

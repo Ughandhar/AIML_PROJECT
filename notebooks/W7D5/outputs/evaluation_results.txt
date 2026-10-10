@@ -1,0 +1,9 @@
+W7D5 RAG Evaluation
+
+Question: What is RAG?
+Expected keywords: ['retrieval', 'documents', 'context']
+Matched keywords: ['retrieval', 'documents', 'context']
+Keyword match score: 1.00
+
+Generated answer:
+Retrieval-Augmented Generation (RAG) is a technique that combines the capabilities of document retrieval systems and natural language generation. It works by utilizing a document retrieval system to find relevant documents that can provide context and information to answer a question. Once the relevant documents are identified, RAG uses the information from these documents to generate a context-based answer to the question.

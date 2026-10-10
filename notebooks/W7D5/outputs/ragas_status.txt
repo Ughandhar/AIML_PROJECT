@@ -1,0 +1,7 @@
+W7D5 Ragas Compatibility Check
+
+Installed Ragas version: 0.4.3
+Issue: Ragas imports a missing langchain_community Vertex AI module.
+Replacement integration: Not installed.
+Status: Pending compatibility fix and evaluation.
+Core RAG pipeline: Working.

@@ -1,0 +1,2 @@
+Retrieval-Augmented Generation (RAG) retrieves relevant documents
+and uses their information to generate context-based answers.
