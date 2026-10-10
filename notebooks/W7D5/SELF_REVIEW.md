@@ -1,4 +1,4 @@
-W7D5 — MULTI-DOCUMENT RAG SELF-REVIEW
+﻿W7D5 - MULTI-DOCUMENT RAG SELF-REVIEW
 
 [✓] Created and loaded three sample documents
 [✓] Split documents into chunks
@@ -7,11 +7,13 @@ W7D5 — MULTI-DOCUMENT RAG SELF-REVIEW
 [✓] Built the retrieval workflow using LangGraph
 [✓] Generated answers using Ollama qwen2.5:3b
 [✓] Logged experiment data using MLflow
-[✓] Evaluated the answer using keyword matching
+[✓] Completed basic keyword evaluation
 [✓] Passed five basic pipeline tests
 [✓] Saved evaluation and test evidence
 [✓] Logged two RAG interactions
 
-Pending:
-[ ] Complete Ragas evaluation
-[ ] Final verification and Git workflow
+PENDING
+[ ] Resolve Ragas compatibility and run a Ragas evaluation
+[ ] Integrate or verify CrewAI for the required stack
+[ ] Complete final verification
+[ ] Push the branch and create and verify the pull request
