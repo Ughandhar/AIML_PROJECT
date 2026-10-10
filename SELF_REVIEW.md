@@ -972,3 +972,22 @@ W7D4 — FINAL REVIEW CHECKLIST
    ☑ Branch push
    ☑ PR creation
    ☑ PR verification
+
+## W7D5 — Multi-Document RAG Self-Review
+
+### Completed
+
+- [x] Created and loaded three sample documents.
+- [x] Split documents into chunks and generated 768-dimensional Ollama embeddings.
+- [x] Stored and retrieved document chunks using ChromaDB.
+- [x] Built the retrieval workflow using LangGraph.
+- [x] Generated answers using Ollama `qwen2.5:3b`.
+- [x] Logged experiment data using MLflow.
+- [x] Completed basic keyword evaluation.
+- [x] Passed five basic pipeline tests.
+- [x] Saved evaluation and test evidence.
+- [x] Logged two RAG interactions.
+- [x] Resolved Ragas compatibility and completed the evaluation.
+- [x] Integrated and verified CrewAI for the required stack.
+- [x] Completed final verification.
+- [x] Pushed the branch and created and verified the pull request.

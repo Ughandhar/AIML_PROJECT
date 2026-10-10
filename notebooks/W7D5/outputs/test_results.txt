@@ -1,0 +1,6 @@
+document_count: 3
+stored_chunks: 3
+retrieval_working: True
+answer_generation_working: True
+keyword_score: 1.0
+tests_passed: 5
