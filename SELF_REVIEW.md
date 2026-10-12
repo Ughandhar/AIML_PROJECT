@@ -801,3 +801,46 @@ W7D4 — FINAL REVIEW CHECKLIST
 - [x] Integrated and verified CrewAI for the required stack.
 - [x] Completed final verification.
 - [x] Pushed the branch and created and verified the pull request.
+
+
+# W8D1 Self-Review Checklist — Production RAG: Evaluation & Optimisation
+
+## Dockerised ML API
+- [x] FastAPI application created
+- [x] API syntax check passed
+- [x] Health endpoint returned HTTP 200
+- [x] Docker image built successfully
+- [x] Docker container ran locally
+- [x] Container health endpoint returned healthy
+
+## Testing and Code Quality
+- [x] Automated home endpoint test passed
+- [x] Automated health endpoint test passed
+- [x] Ruff lint checks passed
+- [x] At least two meaningful Git commits created
+
+## GitHub Actions CI/CD
+- [x] Workflow file created
+- [x] Lint step configured
+- [x] Test step configured
+- [x] Docker image build step configured
+- [ ] Workflow run verified on GitHub
+- [ ] Container registry push configured and verified
+
+## Monitoring Strategy
+- [x] Monitoring metrics documented
+- [x] Example alert thresholds documented
+- [x] Retraining and re-indexing triggers documented
+- [x] Evaluation cadence documented
+
+## Review and Delivery
+- [ ] CIA Full Stack Mentor Mode review interaction 1 recorded
+- [ ] CIA Full Stack Mentor Mode review interaction 2 recorded
+- [ ] Test and Docker output evidence saved
+- [ ] Changes pushed to remote branch
+- [ ] Pull request created and verified
+
+## Notes
+- Registry publishing requires registry credentials configured securely.
+- Monitoring thresholds are initial examples and require tuning.
+- The current API is a minimal health-check example, not a complete RAG serving pipeline.
