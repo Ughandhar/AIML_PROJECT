@@ -1,0 +1,25 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+*_venv/
+
+# IDE
+.vscode/
+
+# Local databases and experiment artifacts
+*.db
+mlruns/
+review_extract/
+tatus
+
+# Existing generated ChromaDB
+/notebooks/chroma_w6d4/
+
+# Local experiment databases
+/notebooks/local_data/
