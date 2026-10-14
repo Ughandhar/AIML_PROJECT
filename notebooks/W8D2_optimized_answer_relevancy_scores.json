@@ -1,0 +1,43 @@
+[
+  {
+    "question": "What is artificial intelligence?",
+    "answer_relevancy": 0.6923269033278652,
+    "method": "JSON fallback estimate"
+  },
+  {
+    "question": "What are four tasks AI systems can perform?",
+    "answer_relevancy": 0.9816912281049734
+  },
+  {
+    "question": "What is machine learning?",
+    "answer_relevancy": 0.7944369188690936
+  },
+  {
+    "question": "What is deep learning?",
+    "answer_relevancy": 1.0
+  },
+  {
+    "question": "What is natural language processing?",
+    "answer_relevancy": 0.7022361404089288
+  },
+  {
+    "question": "How can AI be used in robotics?",
+    "answer_relevancy": 1.0000000000000004
+  },
+  {
+    "question": "How does an AI system improve its performance?",
+    "answer_relevancy": 1.0000000000000002
+  },
+  {
+    "question": "How can AI help a self-driving car?",
+    "answer_relevancy": 0.9300632253622793
+  },
+  {
+    "question": "How does AI solve problems?",
+    "answer_relevancy": 1.0000000000000009
+  },
+  {
+    "question": "How does AI use reasoning?",
+    "answer_relevancy": 0.8718520887247855
+  }
+]
