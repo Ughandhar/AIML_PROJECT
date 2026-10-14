@@ -23,3 +23,5 @@ tatus
 
 # Local experiment databases
 /notebooks/local_data/
+
+venv312/

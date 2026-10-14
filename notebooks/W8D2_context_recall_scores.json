@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is artificial intelligence?",
+    "context_recall": 1,
+    "reason": "brief explanation"
+  },
+  {
+    "question": "What are four tasks AI systems can perform?",
+    "context_recall": 1,
+    "reason": "The retrieved context supports the reference answer by providing four tasks that AI systems can perform: learning from data, problem-solving, perception, and reasoning."
+  },
+  {
+    "question": "What is machine learning?",
+    "context_recall": 1,
+    "reason": "The retrieved context provides a brief explanation of machine learning, which supports the reference answer."
+  },
+  {
+    "question": "What is deep learning?",
+    "context_recall": 1,
+    "reason": "The retrieved context provides a brief explanation of machine learning, which supports the reference answer that machine learning is a subset of AI that focuses on developing algorithms that can learn from data."
+  },
+  {
+    "question": "What is natural language processing?",
+    "context_recall": 1,
+    "reason": "The context provides a brief explanation of natural language processing as a subset of AI that deals with processing and understanding human language, which supports the reference answer."
+  },
+  {
+    "question": "How can AI be used in robotics?",
+    "context_recall": 1,
+    "reason": "brief explanation"
+  },
+  {
+    "question": "How does an AI system improve its performance?",
+    "context_recall": 1,
+    "reason": "brief explanation"
+  },
+  {
+    "question": "How can AI help a self-driving car?",
+    "context_recall": 1,
+    "reason": "The retrieved context supports the reference answer by providing additional details about how AI can help a self-driving car, such as recognizing patterns, navigating roads, avoiding obstacles, and following traffic rules."
+  },
+  {
+    "question": "How does AI solve problems?",
+    "context_recall": 1,
+    "reason": "The retrieved context mentions that AI systems can analyze problems and find solutions, which supports the reference answer that AI systems analyze problems and identify possible solutions."
+  },
+  {
+    "question": "How does AI use reasoning?",
+    "context_recall": 1,
+    "reason": "The retrieved context contains a specific mention of reasoning, which supports the reference answer."
+  }
+]

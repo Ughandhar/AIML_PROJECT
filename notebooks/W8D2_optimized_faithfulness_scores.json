@@ -1,0 +1,44 @@
+[
+  {
+    "question": "What is artificial intelligence?",
+    "faithfulness": 1.0
+  },
+  {
+    "question": "What are four tasks AI systems can perform?",
+    "faithfulness": 1.0
+  },
+  {
+    "question": "What is machine learning?",
+    "faithfulness": 1.0
+  },
+  {
+    "question": "What is deep learning?",
+    "faithfulness": 1.0
+  },
+  {
+    "question": "What is natural language processing?",
+    "faithfulness": 1.0
+  },
+  {
+    "question": "How can AI be used in robotics?",
+    "faithfulness": 1.0,
+    "reason": "brief explanation",
+    "method": "JSON fallback evaluator"
+  },
+  {
+    "question": "How does an AI system improve its performance?",
+    "faithfulness": 1.0
+  },
+  {
+    "question": "How can AI help a self-driving car?",
+    "faithfulness": 1.0
+  },
+  {
+    "question": "How does AI solve problems?",
+    "faithfulness": 1.0
+  },
+  {
+    "question": "How does AI use reasoning?",
+    "faithfulness": 1.0
+  }
+]

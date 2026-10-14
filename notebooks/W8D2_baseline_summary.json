@@ -1,0 +1,206 @@
+{
+  "faithfulness_average": 0.9714285714285713,
+  "faithfulness_scores": [
+    {
+      "question": "What is artificial intelligence?",
+      "faithfulness": 1.0
+    },
+    {
+      "question": "What are four tasks AI systems can perform?",
+      "faithfulness": 1.0
+    },
+    {
+      "question": "What is machine learning?",
+      "faithfulness": 1.0
+    },
+    {
+      "question": "What is deep learning?",
+      "faithfulness": 1.0
+    },
+    {
+      "question": "What is natural language processing?",
+      "faithfulness": 1.0
+    },
+    {
+      "question": "How can AI be used in robotics?",
+      "faithfulness": 1.0
+    },
+    {
+      "question": "How does an AI system improve its performance?",
+      "faithfulness": 1.0
+    },
+    {
+      "question": "How can AI help a self-driving car?",
+      "faithfulness": 0.7142857142857143
+    },
+    {
+      "question": "How does AI solve problems?",
+      "faithfulness": 1.0
+    },
+    {
+      "question": "How does AI use reasoning?",
+      "faithfulness": 1.0
+    }
+  ],
+  "scoring_note": "Preliminary scoring: each complete answer was treated as one statement. This is not a rigorous claim-level Ragas score.",
+  "answer_relevancy_average": 0.8623898028673362,
+  "answer_relevancy_scores": [
+    {
+      "question": "What is artificial intelligence?",
+      "generated_question": "What is the core definition of Artificial Intelligence (AI)?",
+      "noncommittal": 0,
+      "answer_relevancy": 0.8474216043375866
+    },
+    {
+      "question": "What are four tasks AI systems can perform?",
+      "generated_question": "What are the four tasks that AI systems can perform?",
+      "noncommittal": 0,
+      "answer_relevancy": 0.9816912281049734
+    },
+    {
+      "question": "What is machine learning?",
+      "generated_question": "What is machine learning (ML) in relation to artificial intelligence (AI)?",
+      "noncommittal": 0,
+      "answer_relevancy": 0.7944369188690936
+    },
+    {
+      "question": "What is deep learning?",
+      "generated_question": "What are the specific applications of deep learning?",
+      "noncommittal": 0,
+      "answer_relevancy": 0.7290614378973928
+    },
+    {
+      "question": "What is natural language processing?",
+      "generated_question": "What is the relationship between NLP and AI?",
+      "noncommittal": 0,
+      "answer_relevancy": 0.5371337088540673
+    },
+    {
+      "question": "How can AI be used in robotics?",
+      "generated_question": "How can AI be used in robotics to enhance their capabilities?",
+      "noncommittal": 0,
+      "answer_relevancy": 0.8877730641224473
+    },
+    {
+      "question": "How does an AI system improve its performance?",
+      "generated_question": "How does an AI system improve its performance?",
+      "noncommittal": 0,
+      "answer_relevancy": 1.0000000000000002
+    },
+    {
+      "question": "How can AI help a self-driving car?",
+      "generated_question": "What are the primary ways AI helps a self-driving car?",
+      "noncommittal": 0,
+      "answer_relevancy": 0.9429442076570568
+    },
+    {
+      "question": "How does AI solve problems?",
+      "generated_question": "How does AI solve problems?",
+      "noncommittal": 0,
+      "answer_relevancy": 1.0000000000000009
+    },
+    {
+      "question": "How does AI use reasoning?",
+      "generated_question": "How does AI use reasoning to make decisions?",
+      "noncommittal": 0,
+      "answer_relevancy": 0.9034358588307441
+    }
+  ],
+  "context_precision_average": 0.8,
+  "context_precision_scores": [
+    {
+      "question": "What is artificial intelligence?",
+      "context_precision": 1.0
+    },
+    {
+      "question": "What are four tasks AI systems can perform?",
+      "context_precision": 0.6666666666666666
+    },
+    {
+      "question": "What is machine learning?",
+      "context_precision": 1.0
+    },
+    {
+      "question": "What is deep learning?",
+      "context_precision": 0.6666666666666666
+    },
+    {
+      "question": "What is natural language processing?",
+      "context_precision": 0.6666666666666666
+    },
+    {
+      "question": "How can AI be used in robotics?",
+      "context_precision": 1.0
+    },
+    {
+      "question": "How does an AI system improve its performance?",
+      "context_precision": 1.0
+    },
+    {
+      "question": "How can AI help a self-driving car?",
+      "context_precision": 0.6666666666666666
+    },
+    {
+      "question": "How does AI solve problems?",
+      "context_precision": 0.6666666666666666
+    },
+    {
+      "question": "How does AI use reasoning?",
+      "context_precision": 0.6666666666666666
+    }
+  ],
+  "context_recall_average": 1.0,
+  "context_recall_scores": [
+    {
+      "question": "What is artificial intelligence?",
+      "context_recall": 1,
+      "reason": "brief explanation"
+    },
+    {
+      "question": "What are four tasks AI systems can perform?",
+      "context_recall": 1,
+      "reason": "The retrieved context supports the reference answer by providing four tasks that AI systems can perform: learning from data, problem-solving, perception, and reasoning."
+    },
+    {
+      "question": "What is machine learning?",
+      "context_recall": 1,
+      "reason": "The retrieved context provides a brief explanation of machine learning, which supports the reference answer."
+    },
+    {
+      "question": "What is deep learning?",
+      "context_recall": 1,
+      "reason": "The retrieved context provides a brief explanation of machine learning, which supports the reference answer that machine learning is a subset of AI that focuses on developing algorithms that can learn from data."
+    },
+    {
+      "question": "What is natural language processing?",
+      "context_recall": 1,
+      "reason": "The context provides a brief explanation of natural language processing as a subset of AI that deals with processing and understanding human language, which supports the reference answer."
+    },
+    {
+      "question": "How can AI be used in robotics?",
+      "context_recall": 1,
+      "reason": "brief explanation"
+    },
+    {
+      "question": "How does an AI system improve its performance?",
+      "context_recall": 1,
+      "reason": "brief explanation"
+    },
+    {
+      "question": "How can AI help a self-driving car?",
+      "context_recall": 1,
+      "reason": "The retrieved context supports the reference answer by providing additional details about how AI can help a self-driving car, such as recognizing patterns, navigating roads, avoiding obstacles, and following traffic rules."
+    },
+    {
+      "question": "How does AI solve problems?",
+      "context_recall": 1,
+      "reason": "The retrieved context mentions that AI systems can analyze problems and find solutions, which supports the reference answer that AI systems analyze problems and identify possible solutions."
+    },
+    {
+      "question": "How does AI use reasoning?",
+      "context_recall": 1,
+      "reason": "The retrieved context contains a specific mention of reasoning, which supports the reference answer."
+    }
+  ],
+  "optimized_faithfulness_average": 1.0
+}
