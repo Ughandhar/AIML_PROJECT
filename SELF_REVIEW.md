@@ -1057,3 +1057,28 @@ W7D4 — FINAL REVIEW CHECKLIST
 
 - Technical work and initial Git commit completed.
 - Mentor evidence, second commit, push, and PR verification completed.
+  W8D3 — Haystack Pipeline and Retrieval Evaluation
+  [x] Loaded and indexed 5 robotics PDF documents.
+
+[x] Tested BM25 retrieval with 10 questions.
+
+[x] Generated document embeddings and tested dense retrieval on the same 10 questions.
+
+[x] Compared top-ranked PDFs; observed 80% agreement (8/10).
+
+[x] Saved retrieval comparison to notebooks/W8D3_retrieval_comparison.csv if the CSV was saved in the notebooks folder.
+
+[x] Complete the required Haystack pipeline with Reader.
+
+[x] Complete CIA Full Stack Mentor interactions and save evidence.
+
+[x] Verify at least 2 meaningful Git commits, push branch, and create PR.git status --short
+
+### Dense Reader Evaluation
+
+- Ran the same 10 questions through the dense retriever and extractive Reader.
+- Saved results to `notebooks/W8D3_dense_reader_evaluation.csv`.
+- Provisional labels: 4 Relevant, 6 Needs review.
+- BM25 Reader results saved to `notebooks/W8D3_bm25_reader_evaluation.csv`.
+- Manual relevance review is incomplete; do not treat provisional labels as final precision.
+- The Reader uses query-word overlap to select a sentence; it is a simple extractive baseline, not an LLM answer generator.

@@ -1,0 +1,11 @@
+question,bm25_top_pdf,dense_top_pdf,agree
+What is computer vision in robotics?,computer_vision_robotics.pdf,computer_vision_robotics.pdf,True
+What are common image processing operations?,computer_vision_robotics.pdf,computer_vision_robotics.pdf,True
+What is the purpose of a PID controller?,pid_control.pdf,pid_control.pdf,True
+What do proportional and integral terms do in PID control?,pid_control.pdf,pid_control.pdf,True
+What does an IMU measure?,robot_sensors.pdf,robot_sensors.pdf,True
+How do wheel encoders help robots?,robot_sensors.pdf,robot_sensors.pdf,True
+What are the main components of a robot?,pid_control.pdf,robotics_reference.pdf,False
+What is ROS 2 used for?,ros2_basics.pdf,ros2_basics.pdf,True
+How do robot sensors support navigation?,robotics_reference.pdf,robot_sensors.pdf,False
+How can robots use computer vision for decision-making?,computer_vision_robotics.pdf,computer_vision_robotics.pdf,True
