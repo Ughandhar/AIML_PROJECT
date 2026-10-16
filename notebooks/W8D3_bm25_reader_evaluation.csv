@@ -1,0 +1,29 @@
+question,answer,source,manual_relevance
+What is computer vision in robotics?,"Applications
+Computer vision is used in autonomous navigation, inspection, manipulation, surveillance, agriculture, and
+human-robot interaction.",computer_vision_robotics.pdf,Relevant
+What are common image processing operations?,"Image Processing
+Common operations include resizing, filtering, color conversion, thresholding, edge detection, and feature
+extraction.",computer_vision_robotics.pdf,Relevant
+What is the purpose of a PID controller?,"PID Control in Robotics
+PID Purpose
+A PID controller regulates a system using the error between a desired setpoint and measured output.",pid_control.pdf,Relevant
+What do proportional and integral terms do in PID control?,"Robot Control
+A PID controller uses proportional, integral, and derivative terms to regulate a system.",robotics_reference.pdf,Needs review
+What does an IMU measure?,"An IMU
+measures angular velocity and linear acceleration, while wheel encoders measure wheel rotation.",robotics_reference.pdf,Needs review
+How do wheel encoders help robots?,"Wheel Encoders
+Wheel encoders measure wheel rotation and can be used to estimate wheel displacement, speed, and
+odometry.",robot_sensors.pdf,Relevant
+What are the main components of a robot?,"PID Control in Robotics
+PID Purpose
+A PID controller regulates a system using the error between a desired setpoint and measured output.",pid_control.pdf,Not relevant
+What is ROS 2 used for?,"ROS 2 Basics for Robotics
+ROS 2
+ROS 2 is a middleware framework used to build distributed robot applications.",ros2_basics.pdf,Relevant
+How do robot sensors support navigation?,"Localization and Navigation
+SLAM allows a robot to build a map while estimating its own position.",robotics_reference.pdf,Needs review
+How can robots use computer vision for decision-making?,"Computer Vision for Robotics
+Computer Vision
+Computer vision allows robots to extract useful information from images and video for perception and
+decision-making.",computer_vision_robotics.pdf,Needs review

@@ -882,4 +882,13 @@ W7D4 — FINAL REVIEW CHECKLIST
 
 [x] Complete CIA Full Stack Mentor interactions and save evidence.
 
-[x] Verify at least 2 meaningful Git commits, push branch, and create PR.
+[x] Verify at least 2 meaningful Git commits, push branch, and create PR.git status --short
+
+### Dense Reader Evaluation
+
+- Ran the same 10 questions through the dense retriever and extractive Reader.
+- Saved results to `notebooks/W8D3_dense_reader_evaluation.csv`.
+- Provisional labels: 4 Relevant, 6 Needs review.
+- BM25 Reader results saved to `notebooks/W8D3_bm25_reader_evaluation.csv`.
+- Manual relevance review is incomplete; do not treat provisional labels as final precision.
+- The Reader uses query-word overlap to select a sentence; it is a simple extractive baseline, not an LLM answer generator.
