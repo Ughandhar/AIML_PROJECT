@@ -1110,3 +1110,40 @@ W7D4 — FINAL REVIEW CHECKLIST
 - [x] Working code committed to Git branch
 - [x] Output evidence provided (screenshot / notebook output)
 - [x] Self-review checklist completed
+
+# W8D5: 2M Capstone: Local AI Research Assistant — Completion Checklist
+
+### 🎯 Learning Objective & Stack
+
+- [x] Completed hands-on tasks for 2M Capstone: Local AI Research Assistant using the approved AI/ML 3M stack (CrewAI · LangGraph · MLflow · Ragas · MLOps)
+
+---
+
+### ⚙️ Practical Tasks
+
+- [x] Completed the assigned task following the approved stack for AI/ML 3M
+- [x] Written clean, commented code and run all tests successfully
+- [x] Committed changes with descriptive messages and pushed to branch
+
+---
+
+### 🌿 Git Tasks
+
+- [x] Branch created/used: `feat/aiml-W8-[your-name]`
+- [x] Minimum 2 commits with descriptive messages created
+- [x] Pushed changes and raised Pull Request (PR) before end of day
+
+---
+
+### 🤖 CIA Tasks
+
+- [x] CIA → Full Stack Mentor Mode: Code review obtained prior to committing
+- [x] Minimum 2 CIA interactions completed and logged for evaluation
+
+---
+
+### 📦 Deliverables
+
+- [x] Working code committed to Git branch
+- [x] Output evidence provided (screenshot / notebook output)
+- [x] Self-review checklist completed
