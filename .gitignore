@@ -25,3 +25,6 @@ tatus
 /notebooks/local_data/
 
 venv312/
+
+# W9D1 CrewAI environment
+.venv-w9d1/
