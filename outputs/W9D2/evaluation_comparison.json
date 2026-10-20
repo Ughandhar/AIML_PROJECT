@@ -1,0 +1,11 @@
+{
+  "timestamp_utc": "2026-10-20T05:47:25.346239+00:00",
+  "model": "ollama/qwen2.5:3b",
+  "topic": "Python AST practical uses and limitations",
+  "baseline_characters": 3239,
+  "web_enhanced_characters": 2312,
+  "live_search_test": "Passed \u2014 DuckDuckGo returned titles, URLs, and snippets",
+  "safe_calculation_test": "Passed \u2014 (1200 * 0.15) + 40 = 220.0",
+  "unsafe_expression_test": "Passed \u2014 function call rejected",
+  "review_note": "Inspect the saved reviewer scores before claiming quality improvement. Tool availability does not by itself prove that the enhanced crew used the tools."
+}
