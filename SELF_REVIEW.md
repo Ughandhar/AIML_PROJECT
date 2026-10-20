@@ -1,663 +1,663 @@
-# CYNARIS AI/ML INTERNSHIP — SELF REVIEW
+# CYNARIS AI/ML INTERNSHIP â€” SELF REVIEW
 
 # WEEK 1
 
-## W1D1 — NumPy Fundamentals
+## W1D1 â€” NumPy Fundamentals
 
 ### NumPy
 
-- ✓ NumPy installed in virtual environment
-- ✓ 1D array created and shape verified
-- ✓ 2D array created and shape verified
-- ✓ 3D array created and shape verified
-- ✓ Broadcasting demonstrated
-- ✓ Vectorised operations demonstrated
-- ✓ No Python loops used
-- ✓ Matrix multiplication completed
+- âœ“ NumPy installed in virtual environment
+- âœ“ 1D array created and shape verified
+- âœ“ 2D array created and shape verified
+- âœ“ 3D array created and shape verified
+- âœ“ Broadcasting demonstrated
+- âœ“ Vectorised operations demonstrated
+- âœ“ No Python loops used
+- âœ“ Matrix multiplication completed
 
 ### Statistics
 
-- ✓ Real CSV dataset loaded
-- ✓ Mean calculated
-- ✓ Standard deviation calculated
-- ✓ Correlation calculated
+- âœ“ Real CSV dataset loaded
+- âœ“ Mean calculated
+- âœ“ Standard deviation calculated
+- âœ“ Correlation calculated
 
 ### Code Quality
 
-- ✓ Clear variable names used
-- ✓ Code is readable
-- ✓ No unnecessary loops
-- ✓ No debug print statements left in code
-- ✓ Dataset path uses pathlib
+- âœ“ Clear variable names used
+- âœ“ Code is readable
+- âœ“ No unnecessary loops
+- âœ“ No debug print statements left in code
+- âœ“ Dataset path uses pathlib
 
 ### Evidence
 
-- ✓ Notebook outputs verified
-- ✓ CIA review completed
-- ✓ Second CIA interaction completed
+- âœ“ Notebook outputs verified
+- âœ“ CIA review completed
+- âœ“ Second CIA interaction completed
 
 ### Git
 
-- ✓ Working on feature branch
-- ✓ Minimum 2 meaningful commits
-- ✓ Changes pushed to GitHub
-- ✓ Pull Request created
-- ✓ Pull Request merged into main
+- âœ“ Working on feature branch
+- âœ“ Minimum 2 meaningful commits
+- âœ“ Changes pushed to GitHub
+- âœ“ Pull Request created
+- âœ“ Pull Request merged into main
 
 ### W1D1 Status
 
-✓ COMPLETE
+âœ“ COMPLETE
 
 ---
 
-## W1D2 — Pandas Data Manipulation
+## W1D2 â€” Pandas Data Manipulation
 
 ### Pandas
 
-- ✓ Pandas imported successfully
-- ✓ DataFrame created and inspected
-- ✓ Rows and columns selected
-- ✓ Data filtered using conditions
-- ✓ Data sorted successfully
-- ✓ GroupBy operation completed
-- ✓ Aggregation operations completed
-- ✓ Merge operation completed
-- ✓ Pandas operations verified
+- âœ“ Pandas imported successfully
+- âœ“ DataFrame created and inspected
+- âœ“ Rows and columns selected
+- âœ“ Data filtered using conditions
+- âœ“ Data sorted successfully
+- âœ“ GroupBy operation completed
+- âœ“ Aggregation operations completed
+- âœ“ Merge operation completed
+- âœ“ Pandas operations verified
 
 ### Code Quality
 
-- ✓ Clear variable names used
-- ✓ Code is readable
-- ✓ Appropriate Pandas operations used
-- ✓ No unnecessary code left in notebook
-- ✓ Notebook outputs verified
+- âœ“ Clear variable names used
+- âœ“ Code is readable
+- âœ“ Appropriate Pandas operations used
+- âœ“ No unnecessary code left in notebook
+- âœ“ Notebook outputs verified
 
 ### Evidence
 
-- ✓ CIA review completed
-- ✓ Second CIA interaction completed
+- âœ“ CIA review completed
+- âœ“ Second CIA interaction completed
 
 ### Git
 
-- ✓ Feature branch used
-- ✓ Meaningful commits completed
-- ✓ Changes pushed to GitHub
-- ✓ Pull Request created
-- ✓ Pull Request merged into main
+- âœ“ Feature branch used
+- âœ“ Meaningful commits completed
+- âœ“ Changes pushed to GitHub
+- âœ“ Pull Request created
+- âœ“ Pull Request merged into main
 
 ### W1D2 Status
 
-✓ COMPLETE
+âœ“ COMPLETE
 
 ---
 
-## W1D3 — Data Loading, Cleaning & Inspection
+## W1D3 â€” Data Loading, Cleaning & Inspection
 
 ### Data Loading
 
-- ✓ CSV dataset loaded successfully
-- ✓ Dataset shape inspected
-- ✓ Column names inspected
-- ✓ Data types checked
-- ✓ Dataset values inspected
+- âœ“ CSV dataset loaded successfully
+- âœ“ Dataset shape inspected
+- âœ“ Column names inspected
+- âœ“ Data types checked
+- âœ“ Dataset values inspected
 
 ### Data Cleaning
 
-- ✓ Missing values checked
-- ✓ Duplicate rows checked
-- ✓ Data cleaning completed
-- ✓ Clean dataset verified
-- ✓ Output dataset exported successfully
+- âœ“ Missing values checked
+- âœ“ Duplicate rows checked
+- âœ“ Data cleaning completed
+- âœ“ Clean dataset verified
+- âœ“ Output dataset exported successfully
 
 ### Code Quality
 
-- ✓ Clear variable names used
-- ✓ Code is readable
-- ✓ Appropriate Pandas operations used
-- ✓ Dataset path handled correctly
-- ✓ Notebook outputs verified
+- âœ“ Clear variable names used
+- âœ“ Code is readable
+- âœ“ Appropriate Pandas operations used
+- âœ“ Dataset path handled correctly
+- âœ“ Notebook outputs verified
 
 ### Evidence
 
-- ✓ CIA review completed
-- ✓ Second CIA interaction completed
+- âœ“ CIA review completed
+- âœ“ Second CIA interaction completed
 
 ### Git
 
-- ✓ Feature branch used
-- ✓ Meaningful commits completed
-- ✓ Changes pushed to GitHub
-- ✓ Pull Request created
-- ✓ Pull Request merged into main
+- âœ“ Feature branch used
+- âœ“ Meaningful commits completed
+- âœ“ Changes pushed to GitHub
+- âœ“ Pull Request created
+- âœ“ Pull Request merged into main
 
 ### W1D3 Status
 
-✓ COMPLETE
+âœ“ COMPLETE
 
 ---
 
-## W1D4 — Exploratory Data Analysis
+## W1D4 â€” Exploratory Data Analysis
 
 ### Dataset Inspection
 
-- ✓ Dataset loaded and inspected
-- ✓ Summary statistics generated
-- ✓ Missing values checked
-- ✓ Duplicate rows checked
+- âœ“ Dataset loaded and inspected
+- âœ“ Summary statistics generated
+- âœ“ Missing values checked
+- âœ“ Duplicate rows checked
 
 ### EDA
 
-- ✓ Five key observations documented
-- ✓ Numeric distributions visualized
-- ✓ Correlation heatmap created
-- ✓ Category counts analyzed
-- ✓ EDA findings documented
-- ✓ Output dataset exported
+- âœ“ Five key observations documented
+- âœ“ Numeric distributions visualized
+- âœ“ Correlation heatmap created
+- âœ“ Category counts analyzed
+- âœ“ EDA findings documented
+- âœ“ Output dataset exported
 
 ### Key Observations
 
-1. ✓ Highest population: Delhi
-2. ✓ Lowest population: Kochi
-3. ✓ Highest literacy rate: Kochi
-4. ✓ Lowest literacy rate: Jaipur
-5. ✓ Highest temperature: Chennai
+1. âœ“ Highest population: Delhi
+2. âœ“ Lowest population: Kochi
+3. âœ“ Highest literacy rate: Kochi
+4. âœ“ Lowest literacy rate: Jaipur
+5. âœ“ Highest temperature: Chennai
 
 ### Data Quality
 
-- ✓ Missing values: 0
-- ✓ Duplicate rows: 0
-- ✓ City counts verified
+- âœ“ Missing values: 0
+- âœ“ Duplicate rows: 0
+- âœ“ City counts verified
 
 ### Evidence
 
-- ✓ Notebook outputs verified
-- ✓ CIA review completed
-- ✓ Second CIA interaction completed
+- âœ“ Notebook outputs verified
+- âœ“ CIA review completed
+- âœ“ Second CIA interaction completed
 
 ### Git
 
-- ✓ Feature branch used
-- ✓ Meaningful commits completed
-- ✓ Changes pushed to GitHub
-- ✓ Pull Request created
-- ✓ Pull Request merged into main
+- âœ“ Feature branch used
+- âœ“ Meaningful commits completed
+- âœ“ Changes pushed to GitHub
+- âœ“ Pull Request created
+- âœ“ Pull Request merged into main
 
 ### W1D4 Status
 
-✓ COMPLETE
+âœ“ COMPLETE
 
 ---
 
-## W1D5 — Data Visualisation
+## W1D5 â€” Data Visualisation
 
 ### Visualisation
 
-- ✓ Dataset loaded successfully
-- ✓ Numeric distributions visualized
-- ✓ Bar chart created
-- ✓ Population comparison visualized
-- ✓ Temperature comparison visualized
-- ✓ Literacy rate comparison visualized
-- ✓ Correlation heatmap created
-- ✓ Charts inspected and verified
+- âœ“ Dataset loaded successfully
+- âœ“ Numeric distributions visualized
+- âœ“ Bar chart created
+- âœ“ Population comparison visualized
+- âœ“ Temperature comparison visualized
+- âœ“ Literacy rate comparison visualized
+- âœ“ Correlation heatmap created
+- âœ“ Charts inspected and verified
 
 ### Data Analysis
 
-- ✓ Population patterns visualized
-- ✓ Temperature patterns visualized
-- ✓ Literacy rate patterns visualized
-- ✓ Correlation relationships visualized
-- ✓ Visual findings documented
+- âœ“ Population patterns visualized
+- âœ“ Temperature patterns visualized
+- âœ“ Literacy rate patterns visualized
+- âœ“ Correlation relationships visualized
+- âœ“ Visual findings documented
 
 ### Code Quality
 
-- ✓ Clear variable names used
-- ✓ Code is readable
-- ✓ Appropriate visualization libraries used
-- ✓ Notebook outputs verified
-- ✓ No unnecessary code left in notebook
+- âœ“ Clear variable names used
+- âœ“ Code is readable
+- âœ“ Appropriate visualization libraries used
+- âœ“ Notebook outputs verified
+- âœ“ No unnecessary code left in notebook
 
 ### Evidence
 
-- ✓ Notebook outputs verified
-- ✓ CIA review completed
-- ✓ Second CIA interaction completed
+- âœ“ Notebook outputs verified
+- âœ“ CIA review completed
+- âœ“ Second CIA interaction completed
 
 ### Git
 
-- ✓ Feature branch used
-- ✓ Meaningful commits completed
-- ✓ Changes pushed to GitHub
-- ✓ Pull Request created
-- ✓ Pull Request merged into main
+- âœ“ Feature branch used
+- âœ“ Meaningful commits completed
+- âœ“ Changes pushed to GitHub
+- âœ“ Pull Request created
+- âœ“ Pull Request merged into main
 
 ### W1D5 Status
 
-✓ COMPLETE
+âœ“ COMPLETE
 
 # WEEK 2
 
-## W2D1 — Feature Engineering & Encoding
+## W2D1 â€” Feature Engineering & Encoding
 
 ### Encoding
 
-- ✓ OneHotEncoder demonstrated
-- ✓ OrdinalEncoder demonstrated
-- ✓ LabelEncoder demonstrated
-- ✓ Encoding trade-offs documented
+- âœ“ OneHotEncoder demonstrated
+- âœ“ OrdinalEncoder demonstrated
+- âœ“ LabelEncoder demonstrated
+- âœ“ Encoding trade-offs documented
 
 ### Scaling
 
-- ✓ StandardScaler applied
-- ✓ MinMaxScaler applied
-- ✓ RobustScaler applied
-- ✓ Scaling distributions compared using box plots
-- ✓ Scaling methods compared and documented
+- âœ“ StandardScaler applied
+- âœ“ MinMaxScaler applied
+- âœ“ RobustScaler applied
+- âœ“ Scaling distributions compared using box plots
+- âœ“ Scaling methods compared and documented
 
 ### Feature Selection
 
-- ✓ SelectKBest applied using ANOVA F-test
-- ✓ Top 5 features identified
-- ✓ Feature scores calculated
-- ✓ Feature importance documented
-- ✓ Experience excluded based on lowest score
+- âœ“ SelectKBest applied using ANOVA F-test
+- âœ“ Top 5 features identified
+- âœ“ Feature scores calculated
+- âœ“ Feature importance documented
+- âœ“ Experience excluded based on lowest score
 
 ### Code Quality
 
-- ✓ Clear variable names used
-- ✓ Code is readable
-- ✓ Notebook outputs verified
-- ✓ No unnecessary code left in notebook
+- âœ“ Clear variable names used
+- âœ“ Code is readable
+- âœ“ Notebook outputs verified
+- âœ“ No unnecessary code left in notebook
 
 ### Evidence
 
-- ✓ Notebook outputs verified
-- ✓ CIA review completed
-- ✓ Second CIA interaction completed
+- âœ“ Notebook outputs verified
+- âœ“ CIA review completed
+- âœ“ Second CIA interaction completed
 
 ### Git
 
-- ✓ Feature branch used
-- ✓ Meaningful commits completed
-- ✓ Changes pushed to GitHub
-- ✓ Pull Request created
-- ✓ Pull Request merged into main
+- âœ“ Feature branch used
+- âœ“ Meaningful commits completed
+- âœ“ Changes pushed to GitHub
+- âœ“ Pull Request created
+- âœ“ Pull Request merged into main
 
 ### W2D1 Status
 
-✓ COMPLETE
+âœ“ COMPLETE
 
 ---
 
-## W2D2 — Feature Scaling & Selection
+## W2D2 â€” Feature Scaling & Selection
 
 ### Feature Scaling
 
-- ✓ Feature scaling techniques implemented
-- ✓ Scaling results compared
-- ✓ Scaling impact documented
+- âœ“ Feature scaling techniques implemented
+- âœ“ Scaling results compared
+- âœ“ Scaling impact documented
 
 ### Feature Selection
 
-- ✓ Feature selection implemented
-- ✓ Feature scores evaluated
-- ✓ Important features identified
-- ✓ Selected features documented
+- âœ“ Feature selection implemented
+- âœ“ Feature scores evaluated
+- âœ“ Important features identified
+- âœ“ Selected features documented
 
 ### Evidence
 
-- ✓ Notebook outputs verified
-- ✓ CIA review completed
-- ✓ Learning outcomes documented
+- âœ“ Notebook outputs verified
+- âœ“ CIA review completed
+- âœ“ Learning outcomes documented
 
 ### Git
 
-- ✓ Feature branch used
-- ✓ Changes committed
-- ✓ Changes pushed to GitHub
-- ✓ Pull Request created
-- ✓ Pull Request merged into main
+- âœ“ Feature branch used
+- âœ“ Changes committed
+- âœ“ Changes pushed to GitHub
+- âœ“ Pull Request created
+- âœ“ Pull Request merged into main
 
 ### W2D2 Status
 
-✓ COMPLETE
+âœ“ COMPLETE
 
 ---
 
-## W2D3 — Handling Imbalanced Data with SMOTE
+## W2D3 â€” Handling Imbalanced Data with SMOTE
 
 ### Data Preparation
 
-- ✓ Dataset prepared
-- ✓ Class distribution inspected
-- ✓ Imbalanced target identified
-- ✓ Train/test split completed
+- âœ“ Dataset prepared
+- âœ“ Class distribution inspected
+- âœ“ Imbalanced target identified
+- âœ“ Train/test split completed
 
 ### SMOTE
 
-- ✓ SMOTE applied to training data
-- ✓ Synthetic minority samples generated
-- ✓ Class distribution checked after resampling
-- ✓ Data leakage risk reviewed
-- ✓ SMOTE results documented
+- âœ“ SMOTE applied to training data
+- âœ“ Synthetic minority samples generated
+- âœ“ Class distribution checked after resampling
+- âœ“ Data leakage risk reviewed
+- âœ“ SMOTE results documented
 
 ### CIA Mentor Interactions
 
-- ✓ Code review interaction completed
-- ✓ SMOTE concept review completed
-- ✓ Feedback on avoiding data leakage documented
+- âœ“ Code review interaction completed
+- âœ“ SMOTE concept review completed
+- âœ“ Feedback on avoiding data leakage documented
 
 ### Evidence
 
-- ✓ Notebook outputs verified
-- ✓ CIA review completed
+- âœ“ Notebook outputs verified
+- âœ“ CIA review completed
 
 ### Git
 
-- ✓ Feature branch used
-- ✓ Changes committed
-- ✓ Changes pushed to GitHub
-- ✓ Pull Request created
-- ✓ Pull Request merged into main
+- âœ“ Feature branch used
+- âœ“ Changes committed
+- âœ“ Changes pushed to GitHub
+- âœ“ Pull Request created
+- âœ“ Pull Request merged into main
 
 ### W2D3 Status
 
-✓ COMPLETE
+âœ“ COMPLETE
 
 ---
 
-## W2D4 — Train/Test Split & Cross-Validation
+## W2D4 â€” Train/Test Split & Cross-Validation
 
 ### Data Preparation
 
-- ✓ Dataset created
-- ✓ Features and target separated
-- ✓ 80/20 train-test split applied
-- ✓ stratify=y used
+- âœ“ Dataset created
+- âœ“ Features and target separated
+- âœ“ 80/20 train-test split applied
+- âœ“ stratify=y used
 
 ### Model Pipeline
 
-- ✓ StandardScaler applied
-- ✓ Logistic Regression pipeline created
-- ✓ Model trained
-- ✓ Predictions generated
-- ✓ Test data evaluated
+- âœ“ StandardScaler applied
+- âœ“ Logistic Regression pipeline created
+- âœ“ Model trained
+- âœ“ Predictions generated
+- âœ“ Test data evaluated
 
 ### Cross-Validation
 
-- ✓ 5-fold cross-validation completed
-- ✓ Cross-validation scores calculated
-- ✓ Mean CV accuracy calculated
-- ✓ Small minority-class warning documented
+- âœ“ 5-fold cross-validation completed
+- âœ“ Cross-validation scores calculated
+- âœ“ Mean CV accuracy calculated
+- âœ“ Small minority-class warning documented
 
 ### Results
 
-- ✓ Test Accuracy: 100%
-- ✓ Cross-validation scores recorded
-- ✓ Mean CV Accuracy: 86.67%
-- ✓ Results documented
+- âœ“ Test Accuracy: 100%
+- âœ“ Cross-validation scores recorded
+- âœ“ Mean CV Accuracy: 86.67%
+- âœ“ Results documented
 
 ### Evidence
 
-- ✓ Notebook outputs verified
-- ✓ CIA review completed
-- ✓ Key learning documented
+- âœ“ Notebook outputs verified
+- âœ“ CIA review completed
+- âœ“ Key learning documented
 
 ### Git
 
-- ✓ Feature branch used
-- ✓ Changes committed
-- ✓ Changes pushed to GitHub
-- ✓ Pull Request created
-- ✓ Pull Request merged into main
+- âœ“ Feature branch used
+- âœ“ Changes committed
+- âœ“ Changes pushed to GitHub
+- âœ“ Pull Request created
+- âœ“ Pull Request merged into main
 
 ### W2D4 Status
 
-✓ COMPLETE
+âœ“ COMPLETE
 
 ---
 
-## W2D5 — End-to-End Preprocessing Pipeline
+## W2D5 â€” End-to-End Preprocessing Pipeline
 
 ### Data Preparation
 
-- ✓ Missing values handled
-- ✓ Categorical data handled
-- ✓ Features and target separated
-- ✓ Numerical and categorical columns identified
+- âœ“ Missing values handled
+- âœ“ Categorical data handled
+- âœ“ Features and target separated
+- âœ“ Numerical and categorical columns identified
 
 ### Preprocessing
 
-- ✓ Median imputation applied to numerical features
-- ✓ Most-frequent imputation applied to categorical features
-- ✓ StandardScaler applied
-- ✓ OneHotEncoder applied
-- ✓ ColumnTransformer created
-- ✓ Preprocessing and Logistic Regression combined into a pipeline
+- âœ“ Median imputation applied to numerical features
+- âœ“ Most-frequent imputation applied to categorical features
+- âœ“ StandardScaler applied
+- âœ“ OneHotEncoder applied
+- âœ“ ColumnTransformer created
+- âœ“ Preprocessing and Logistic Regression combined into a pipeline
 
 ### Results
 
-- ✓ Original features: 4
-- ✓ Processed features: 7
-- ✓ Processed dataset verified
-- ✓ Predictions generated
-- ✓ Predictions matched expected results
-- ✓ Processed CSV exported
+- âœ“ Original features: 4
+- âœ“ Processed features: 7
+- âœ“ Processed dataset verified
+- âœ“ Predictions generated
+- âœ“ Predictions matched expected results
+- âœ“ Processed CSV exported
 
 ### Evidence
 
-- ✓ Notebook outputs verified
-- ✓ CIA review completed
-- ✓ Key learning documented
+- âœ“ Notebook outputs verified
+- âœ“ CIA review completed
+- âœ“ Key learning documented
 
 ### Git
 
-- ✓ Feature branch used
-- ✓ Changes committed
-- ✓ Changes pushed to GitHub
-- ✓ Pull Request created
-- ✓ Pull Request merged into main
+- âœ“ Feature branch used
+- âœ“ Changes committed
+- âœ“ Changes pushed to GitHub
+- âœ“ Pull Request created
+- âœ“ Pull Request merged into main
 
 ### W2D5 Status
 
-✓ COMPLETE
+âœ“ COMPLETE
 
 ---
 
 # WEEK 3
 
-## W3D1 — Linear Regression
+## W3D1 â€” Linear Regression
 
-- ✓ Create branch
-- ✓ Create notebook
-- ✓ Import libraries
-- ✓ Create dataset
-- ✓ Define X and y
-- ✓ Train/test split
-- ✓ Train Linear Regression
-- ✓ Print coefficient & intercept
-- ✓ Make predictions
-- ✓ MSE
-- ✓ RMSE
-- ✓ MAE
-- ✓ R²
-- ✓ Predicted vs Actual plot
-- ✓ Residual analysis
-- ✓ Train Ridge Regression
-- ✓ Train Lasso Regression
-- ✓ Compare all 3 models
-- ✓ CIA interactions
-- ✓ Update SELF_REVIEW.md
-- ✓ Make 2 commits
-- ✓ Push branch
-- ✓ Create PR
-- ✓ Merge PR
+- âœ“ Create branch
+- âœ“ Create notebook
+- âœ“ Import libraries
+- âœ“ Create dataset
+- âœ“ Define X and y
+- âœ“ Train/test split
+- âœ“ Train Linear Regression
+- âœ“ Print coefficient & intercept
+- âœ“ Make predictions
+- âœ“ MSE
+- âœ“ RMSE
+- âœ“ MAE
+- âœ“ RÂ²
+- âœ“ Predicted vs Actual plot
+- âœ“ Residual analysis
+- âœ“ Train Ridge Regression
+- âœ“ Train Lasso Regression
+- âœ“ Compare all 3 models
+- âœ“ CIA interactions
+- âœ“ Update SELF_REVIEW.md
+- âœ“ Make 2 commits
+- âœ“ Push branch
+- âœ“ Create PR
+- âœ“ Merge PR
 
 ### W3D1 Status
 
-✓ COMPLETE
+âœ“ COMPLETE
 
 ---
 
-## W3D2 — Linear Regression / Practical Tasks
+## W3D2 â€” Linear Regression / Practical Tasks
 
-- ✓ Create branch
-- ✓ Create notebook
-- ✓ Import libraries
-- ✓ Create dataset
-- ✓ Define X and y
-- ✓ Train/test split
-- ✓ Train Linear Regression
-- ✓ Print coefficient & intercept
-- ✓ Make predictions
-- ✓ MSE
-- ✓ RMSE
-- ✓ MAE
-- ✓ R²
-- ✓ Predicted vs Actual plot
-- ✓ Calculate residuals
-- ✓ Residual plot
-- ✓ Train Ridge Regression
-- ✓ Train Lasso Regression
-- ✓ Compare all 3 models
-- ✓ Final output
-- ✓ Update SELF_REVIEW.md
-- ✓ Make 2 commits
-- ✓ Push branch
-- ✓ Create PR
-- ✓ Merge PR
+- âœ“ Create branch
+- âœ“ Create notebook
+- âœ“ Import libraries
+- âœ“ Create dataset
+- âœ“ Define X and y
+- âœ“ Train/test split
+- âœ“ Train Linear Regression
+- âœ“ Print coefficient & intercept
+- âœ“ Make predictions
+- âœ“ MSE
+- âœ“ RMSE
+- âœ“ MAE
+- âœ“ RÂ²
+- âœ“ Predicted vs Actual plot
+- âœ“ Calculate residuals
+- âœ“ Residual plot
+- âœ“ Train Ridge Regression
+- âœ“ Train Lasso Regression
+- âœ“ Compare all 3 models
+- âœ“ Final output
+- âœ“ Update SELF_REVIEW.md
+- âœ“ Make 2 commits
+- âœ“ Push branch
+- âœ“ Create PR
+- âœ“ Merge PR
 
 ### W3D2 Status
 
-✓ COMPLETE
+âœ“ COMPLETE
 
 ---
 
-## W3D3 — Decision Trees & Random Forests
+## W3D3 â€” Decision Trees & Random Forests
 
-- ✓ Decision Tree model trained successfully
-- ✓ Random Forest model trained successfully
-- ✓ Predictions generated
-- ✓ Accuracy calculated
-- ✓ Confusion Matrix generated
-- ✓ Classification Report generated
-- ✓ Decision Tree visualization completed
-- ✓ Decision Tree vs Random Forest comparison completed
-- ✓ Final accuracy visualization completed
-- ✓ CIA interactions completed
-- ✓ Output evidence completed
+- âœ“ Decision Tree model trained successfully
+- âœ“ Random Forest model trained successfully
+- âœ“ Predictions generated
+- âœ“ Accuracy calculated
+- âœ“ Confusion Matrix generated
+- âœ“ Classification Report generated
+- âœ“ Decision Tree visualization completed
+- âœ“ Decision Tree vs Random Forest comparison completed
+- âœ“ Final accuracy visualization completed
+- âœ“ CIA interactions completed
+- âœ“ Output evidence completed
 
 ### W3D3 Status
 
-✓ COMPLETE
+âœ“ COMPLETE
 
 ---
 
-## W3D4 — SVM & KNN
+## W3D4 â€” SVM & KNN
 
-- ✓ Created W3D4 branch
-- ✓ Created SVM & KNN notebook
-- ✓ Imported required libraries
-- ✓ Created dataset
-- ✓ Defined features and target
-- ✓ Train/test split completed
-- ✓ Trained SVM model
-- ✓ SVM predictions generated
-- ✓ SVM evaluation completed
-- ✓ Trained KNN model
-- ✓ KNN predictions generated
-- ✓ KNN evaluation completed
-- ✓ Compared SVM and KNN
-- ✓ Created accuracy comparison plot
-- ✓ CIA interactions completed
-- ✓ Output evidence completed
-- ✓ Self-review completed
-- ✓ Commit 1
-- ✓ Commit 2
-- ✓ Push
-- ✓ PR created
-- ✓ PR merged
+- âœ“ Created W3D4 branch
+- âœ“ Created SVM & KNN notebook
+- âœ“ Imported required libraries
+- âœ“ Created dataset
+- âœ“ Defined features and target
+- âœ“ Train/test split completed
+- âœ“ Trained SVM model
+- âœ“ SVM predictions generated
+- âœ“ SVM evaluation completed
+- âœ“ Trained KNN model
+- âœ“ KNN predictions generated
+- âœ“ KNN evaluation completed
+- âœ“ Compared SVM and KNN
+- âœ“ Created accuracy comparison plot
+- âœ“ CIA interactions completed
+- âœ“ Output evidence completed
+- âœ“ Self-review completed
+- âœ“ Commit 1
+- âœ“ Commit 2
+- âœ“ Push
+- âœ“ PR created
+- âœ“ PR merged
 
 ### W3D4 Status
 
-✓ COMPLETE
+âœ“ COMPLETE
 
 ---
 
-## W3D5 — Hyperparameter Tuning
+## W3D5 â€” Hyperparameter Tuning
 
-- ✓ Created W3D5 branch
-- ✓ Created GridSearch & RandomSearch notebook
-- ✓ Imported required libraries
-- ✓ Created dataset
-- ✓ Defined features and target
-- ✓ Train/test split completed
-- ✓ GridSearchCV completed
-- ✓ RandomizedSearchCV completed
-- ✓ Compared best hyperparameters
-- ✓ Evaluated both models on test data
-- ✓ Created comparison table
-- ✓ Created accuracy comparison plot
-- ✓ CIA review completed
-- ✓ Output evidence completed
-- ✓ Self-review completed
-- ✓ Commit 1
-- ✓ Commit 2
-- ✓ Push
-- ✓ PR created
-- ✓ PR merged
+- âœ“ Created W3D5 branch
+- âœ“ Created GridSearch & RandomSearch notebook
+- âœ“ Imported required libraries
+- âœ“ Created dataset
+- âœ“ Defined features and target
+- âœ“ Train/test split completed
+- âœ“ GridSearchCV completed
+- âœ“ RandomizedSearchCV completed
+- âœ“ Compared best hyperparameters
+- âœ“ Evaluated both models on test data
+- âœ“ Created comparison table
+- âœ“ Created accuracy comparison plot
+- âœ“ CIA review completed
+- âœ“ Output evidence completed
+- âœ“ Self-review completed
+- âœ“ Commit 1
+- âœ“ Commit 2
+- âœ“ Push
+- âœ“ PR created
+- âœ“ PR merged
 
-## **W3D5: ✓ COMPLETED**
+## **W3D5: âœ“ COMPLETED**
 
-# W6D4 — ChromaDB, Similarity Search & RAG Pipeline
+# W6D4 â€” ChromaDB, Similarity Search & RAG Pipeline
 
 ## ChromaDB Setup
 
-- ✓ ChromaDB collection created with cosine similarity
-- ✓ 20 robotics documents stored with embeddings
-- ✓ Unique document IDs verified
-- ✓ Document metadata verified
+- âœ“ ChromaDB collection created with cosine similarity
+- âœ“ 20 robotics documents stored with embeddings
+- âœ“ Unique document IDs verified
+- âœ“ Document metadata verified
 
 ## Similarity Search
 
-- ✓ Similarity search completed
-- ✓ Top 3 relevant documents retrieved
-- ✓ Cosine distances inspected
-- ✓ Metadata filtering tested
-- ✓ Retrieved results manually verified
+- âœ“ Similarity search completed
+- âœ“ Top 3 relevant documents retrieved
+- âœ“ Cosine distances inspected
+- âœ“ Metadata filtering tested
+- âœ“ Retrieved results manually verified
 
 ## PDF Processing & RAG
 
-- ✓ Robotics reference PDF created and loaded
-- ✓ PDF text extracted successfully
-- ✓ Text split into 4 overlapping chunks
-- ✓ PDF chunks embedded and stored in ChromaDB
-- ✓ Top 3 chunks retrieved for the question
-- ✓ Ollama `qwen2.5:3b` used to generate an answer
-- ✓ Answer checked against retrieved context
-- ✓ RAG verification passed
+- âœ“ Robotics reference PDF created and loaded
+- âœ“ PDF text extracted successfully
+- âœ“ Text split into 4 overlapping chunks
+- âœ“ PDF chunks embedded and stored in ChromaDB
+- âœ“ Top 3 chunks retrieved for the question
+- âœ“ Ollama `qwen2.5:3b` used to generate an answer
+- âœ“ Answer checked against retrieved context
+- âœ“ RAG verification passed
 
 ## Evidence
 
-- ✓ Notebook outputs verified
-- ✓ PDF reference file saved
-- ✓ CIA Full Stack Mentor Mode — interaction 1
-- ✓ CIA Full Stack Mentor Mode — interaction 2
+- âœ“ Notebook outputs verified
+- âœ“ PDF reference file saved
+- âœ“ CIA Full Stack Mentor Mode â€” interaction 1
+- âœ“ CIA Full Stack Mentor Mode â€” interaction 2
 
 ## Git
 
-- ✓ Feature branch created
-- ✓ First meaningful commit completed
-- ✓ Second meaningful commit completed
-- ✓ Changes pushed to GitHub
-- ✓ Pull Request created
-- ✓ Pull Request merged into main
+- âœ“ Feature branch created
+- âœ“ First meaningful commit completed
+- âœ“ Second meaningful commit completed
+- âœ“ Changes pushed to GitHub
+- âœ“ Pull Request created
+- âœ“ Pull Request merged into main
 
 ### W6D4 Status
 
-**✓ COMPLETE**
+**âœ“ COMPLETE**
 
-W6D5 — Document Chatbot with LangChain
+W6D5 â€” Document Chatbot with LangChain
 
 - Built a LangChain chain using PromptTemplate, Ollama (qwen2.5:3b), and StrOutputParser.
 - Tested the chain with five different questions.
@@ -685,295 +685,295 @@ W6D5 — Document Chatbot with LangChain
 - Documented implementation details and test results in the notebook.
 
 w6d5 done completed
-W7D1 — FINAL REVIEW CHECKLIST
+W7D1 â€” FINAL REVIEW CHECKLIST
 
 1. HAYSTACK PIPELINE
-   ☑️ Haystack installed and working
-   ☑️ PyPDFToDocument used
-   ☑️ 5 PDF documents indexed
-   ☑️ InMemoryDocumentStore created
-   ☑️ BM25 Retriever created
-   ☑️ Extractive Reader created
-   ☑️ BM25 → Reader pipeline working
-   ☑️ Dense Retriever created
-   ☑️ Sentence Transformers embeddings used
-   ☑️ all-MiniLM-L6-v2 model used
-   ☑️ Dense → Reader pipeline working
+   â˜‘ï¸ Haystack installed and working
+   â˜‘ï¸ PyPDFToDocument used
+   â˜‘ï¸ 5 PDF documents indexed
+   â˜‘ï¸ InMemoryDocumentStore created
+   â˜‘ï¸ BM25 Retriever created
+   â˜‘ï¸ Extractive Reader created
+   â˜‘ï¸ BM25 â†’ Reader pipeline working
+   â˜‘ï¸ Dense Retriever created
+   â˜‘ï¸ Sentence Transformers embeddings used
+   â˜‘ï¸ all-MiniLM-L6-v2 model used
+   â˜‘ï¸ Dense â†’ Reader pipeline working
 
 2. PDF DOCUMENTS
-   ☑️ robotics_reference.pdf
-   ☑️ robot_sensors.pdf
-   ☑️ pid_control.pdf
-   ☑️ ros2_basics.pdf
-   ☑️ computer_vision_robotics.pdf
+   â˜‘ï¸ robotics_reference.pdf
+   â˜‘ï¸ robot_sensors.pdf
+   â˜‘ï¸ pid_control.pdf
+   â˜‘ï¸ ros2_basics.pdf
+   â˜‘ï¸ computer_vision_robotics.pdf
 
 3. QUESTION EVALUATION
-   ☑️ 10 questions tested with BM25
-   ☑️ BM25 result: 10/10 — 100%
-   ☑️ Same 10 questions tested with Dense
-   ☑️ Dense result: 10/10 — 100%
-   ☑️ BM25 vs Dense comparison completed
-   ☑️ Evaluation/conclusion added to notebook
+   â˜‘ï¸ 10 questions tested with BM25
+   â˜‘ï¸ BM25 result: 10/10 â€” 100%
+   â˜‘ï¸ Same 10 questions tested with Dense
+   â˜‘ï¸ Dense result: 10/10 â€” 100%
+   â˜‘ï¸ BM25 vs Dense comparison completed
+   â˜‘ï¸ Evaluation/conclusion added to notebook
 
 4. GIT
-   ☑️ Correct branch: feat/aiml-W7D1-ughandhar
-   ☑️ Commit 1: f603ec4
+   â˜‘ï¸ Correct branch: feat/aiml-W7D1-ughandhar
+   â˜‘ï¸ Commit 1: f603ec4
    feat: complete W7D1 Haystack RAG pipeline
-   ☑️ Commit 2: 7342487
+   â˜‘ï¸ Commit 2: 7342487
    docs: add W7D1 reference PDFs
-   ☑️ Minimum 2 meaningful commits completed
-   ☑️ Branch pushed to GitHub
-   ☑️ PR created
+   â˜‘ï¸ Minimum 2 meaningful commits completed
+   â˜‘ï¸ Branch pushed to GitHub
+   â˜‘ï¸ PR created
 
 5. CIA FULL STACK MENTOR REVIEW
-   ☑️ Mentor interaction/review 1 completed
-   ☑️ Mentor interaction/review 2 completed
-   ☑️ Mentor review evidence saved
-   ☑️ Mentor feedback addressed, if any
+   â˜‘ï¸ Mentor interaction/review 1 completed
+   â˜‘ï¸ Mentor interaction/review 2 completed
+   â˜‘ï¸ Mentor review evidence saved
+   â˜‘ï¸ Mentor feedback addressed, if any
 
 6. SELF REVIEW
-   ☑️ SELF_REVIEW.md updated for W7D1
-   ☑️ 5 PDFs mentioned
-   ☑️ BM25 evaluation mentioned
-   ☑️ Dense evaluation mentioned
-   ☑️ BM25: 10/10 — 100% mentioned
-   ☑️ Dense: 10/10 — 100% mentioned
-   ☑️ BM25 vs Dense comparison mentioned
-   ☑️ Git commits mentioned
-   ☑️ Mentor review evidence mentioned
+   â˜‘ï¸ SELF_REVIEW.md updated for W7D1
+   â˜‘ï¸ 5 PDFs mentioned
+   â˜‘ï¸ BM25 evaluation mentioned
+   â˜‘ï¸ Dense evaluation mentioned
+   â˜‘ï¸ BM25: 10/10 â€” 100% mentioned
+   â˜‘ï¸ Dense: 10/10 â€” 100% mentioned
+   â˜‘ï¸ BM25 vs Dense comparison mentioned
+   â˜‘ï¸ Git commits mentioned
+   â˜‘ï¸ Mentor review evidence mentioned
 
 7. FINAL VERIFICATION
-   ☑️ GitHub branch verified
-   ☑️ PR verified
-   ☑️ PR contains W7D1 notebook
-   ☑️ PR contains required PDF documents
-   ☑️ 2 meaningful commits visible
-   ☑️ Mentor review requirement verified
-   ☑️ SELF_REVIEW.md verified
-   W7D1 — FINAL REVIEW CHECKLIST
+   â˜‘ï¸ GitHub branch verified
+   â˜‘ï¸ PR verified
+   â˜‘ï¸ PR contains W7D1 notebook
+   â˜‘ï¸ PR contains required PDF documents
+   â˜‘ï¸ 2 meaningful commits visible
+   â˜‘ï¸ Mentor review requirement verified
+   â˜‘ï¸ SELF_REVIEW.md verified
+   W7D1 â€” FINAL REVIEW CHECKLIST
    complted
-   W7D1 — FINAL REVIEW CHECKLIST
+   W7D1 â€” FINAL REVIEW CHECKLIST
 
 8. HAYSTACK PIPELINE
-   ☑ Haystack installed and working
-   ☑ PyPDFToDocument used
-   ☑ 5 PDF documents indexed
-   ☑ InMemoryDocumentStore created
-   ☑ BM25 Retriever created
-   ☑ Extractive Reader created
-   ☑ BM25 → Reader pipeline working
-   ☑ Dense Retriever created
-   ☑ Sentence Transformers embeddings used
-   ☑ all-MiniLM-L6-v2 model used
-   ☑ Dense → Reader pipeline working
+   â˜‘ Haystack installed and working
+   â˜‘ PyPDFToDocument used
+   â˜‘ 5 PDF documents indexed
+   â˜‘ InMemoryDocumentStore created
+   â˜‘ BM25 Retriever created
+   â˜‘ Extractive Reader created
+   â˜‘ BM25 â†’ Reader pipeline working
+   â˜‘ Dense Retriever created
+   â˜‘ Sentence Transformers embeddings used
+   â˜‘ all-MiniLM-L6-v2 model used
+   â˜‘ Dense â†’ Reader pipeline working
 
 9. PDF DOCUMENTS
-   ☑ robotics_reference.pdf
-   ☑ robot_sensors.pdf
-   ☑ pid_control.pdf
-   ☑ ros2_basics.pdf
-   ☑ computer_vision_robotics.pdf
+   â˜‘ robotics_reference.pdf
+   â˜‘ robot_sensors.pdf
+   â˜‘ pid_control.pdf
+   â˜‘ ros2_basics.pdf
+   â˜‘ computer_vision_robotics.pdf
 
 10. QUESTION EVALUATION
-    ☑ 10 questions tested with BM25
-    ☑ BM25 result: 10/10 — 100%
-    ☑ Same 10 questions tested with Dense
-    ☑ Dense result: 10/10 — 100%
-    ☑ BM25 vs Dense comparison completed
-    ☑ Evaluation/conclusion added to notebook
+    â˜‘ 10 questions tested with BM25
+    â˜‘ BM25 result: 10/10 â€” 100%
+    â˜‘ Same 10 questions tested with Dense
+    â˜‘ Dense result: 10/10 â€” 100%
+    â˜‘ BM25 vs Dense comparison completed
+    â˜‘ Evaluation/conclusion added to notebook
 
 11. GIT
-    ☑ Correct branch: feat/aiml-W7D1-ughandhar
-    ☑ Commit 1: f603ec4 — feat: complete W7D1 Haystack RAG pipeline
-    ☑ Commit 2: 7342487 — docs: add W7D1 reference PDFs
-    ☑ Minimum 2 meaningful commits completed
-    ⬜ Branch push pending
-    ⬜ PR creation pending
+    â˜‘ Correct branch: feat/aiml-W7D1-ughandhar
+    â˜‘ Commit 1: f603ec4 â€” feat: complete W7D1 Haystack RAG pipeline
+    â˜‘ Commit 2: 7342487 â€” docs: add W7D1 reference PDFs
+    â˜‘ Minimum 2 meaningful commits completed
+    â¬œ Branch push pending
+    â¬œ PR creation pending
 
 12. CIA FULL STACK MENTOR REVIEW
-    ⬜ Mentor interaction/review 1 — pending verification
-    ⬜ Mentor interaction/review 2 — pending verification
-    ⬜ Mentor review evidence — pending verification
-    ⬜ Mentor feedback — pending verification
+    â¬œ Mentor interaction/review 1 â€” pending verification
+    â¬œ Mentor interaction/review 2 â€” pending verification
+    â¬œ Mentor review evidence â€” pending verification
+    â¬œ Mentor feedback â€” pending verification
 
 13. SELF REVIEW
-    ☑ SELF_REVIEW.md updated for W7D1
-    ☑ 5 PDFs documented
-    ☑ BM25 evaluation documented
-    ☑ Dense evaluation documented
-    ☑ BM25: 10/10 — 100%
-    ☑ Dense: 10/10 — 100%
-    ☑ BM25 vs Dense comparison documented
-    ☑ Git commits documented
+    â˜‘ SELF_REVIEW.md updated for W7D1
+    â˜‘ 5 PDFs documented
+    â˜‘ BM25 evaluation documented
+    â˜‘ Dense evaluation documented
+    â˜‘ BM25: 10/10 â€” 100%
+    â˜‘ Dense: 10/10 â€” 100%
+    â˜‘ BM25 vs Dense comparison documented
+    â˜‘ Git commits documented
 
 14. FINAL VERIFICATION
-    ⬜ GitHub branch verification pending
-    ⬜ PR verification pending
-    ⬜ PR contents verification pending
-    ⬜ Mentor review verification pending
+    â¬œ GitHub branch verification pending
+    â¬œ PR verification pending
+    â¬œ PR contents verification pending
+    â¬œ Mentor review verification pending
 
-W7D2 — FINAL REVIEW CHECKLIST
+W7D2 â€” FINAL REVIEW CHECKLIST
 
 1. HAYSTACK PIPELINE
-   ☑ Haystack installed and working
-   ☑ PyPDFToDocument used
-   ☑ 5 PDF documents indexed
-   ☑ InMemoryDocumentStore created
-   ☑ BM25 Retriever created
-   ☑ Extractive Reader created
-   ☑ BM25 → Reader pipeline working
-   ☑ Dense document embeddings created
-   ☑ Sentence Transformers used
-   ☑ all-MiniLM-L6-v2 model used
-   ☑ Dense Text Embedder created
-   ☑ Dense Retriever created
-   ☑ Dense → Reader pipeline working
+   â˜‘ Haystack installed and working
+   â˜‘ PyPDFToDocument used
+   â˜‘ 5 PDF documents indexed
+   â˜‘ InMemoryDocumentStore created
+   â˜‘ BM25 Retriever created
+   â˜‘ Extractive Reader created
+   â˜‘ BM25 â†’ Reader pipeline working
+   â˜‘ Dense document embeddings created
+   â˜‘ Sentence Transformers used
+   â˜‘ all-MiniLM-L6-v2 model used
+   â˜‘ Dense Text Embedder created
+   â˜‘ Dense Retriever created
+   â˜‘ Dense â†’ Reader pipeline working
 
 2. PDF DOCUMENTS
-   ☑ 5 PDF documents loaded
-   ☑ computer_vision_robotics.pdf
-   ☑ pid_control.pdf
-   ☑ robot_sensors.pdf
-   ☑ robotics_reference.pdf
-   ☑ ros2_basics.pdf
+   â˜‘ 5 PDF documents loaded
+   â˜‘ computer_vision_robotics.pdf
+   â˜‘ pid_control.pdf
+   â˜‘ robot_sensors.pdf
+   â˜‘ robotics_reference.pdf
+   â˜‘ ros2_basics.pdf
 
 3. QUESTION EVALUATION
-   ☑ 10 questions tested with BM25
-   ☑ BM25 result: 10/10 — 100%
-   ☑ 10 questions tested with Dense
-   ☑ Dense result: 10/10 — 100%
-   ☑ BM25 vs Dense comparison completed
-   ☑ Evaluation documented
-   ☑ W7D2_EVALUATION.md created
+   â˜‘ 10 questions tested with BM25
+   â˜‘ BM25 result: 10/10 â€” 100%
+   â˜‘ 10 questions tested with Dense
+   â˜‘ Dense result: 10/10 â€” 100%
+   â˜‘ BM25 vs Dense comparison completed
+   â˜‘ Evaluation documented
+   â˜‘ W7D2_EVALUATION.md created
 
 4. GIT
-   ☑ Correct branch: feat/aiml-W7D2-ughandhar
-   ☑ Commit 1: 7f7bb4a — feat: complete W7D2 Haystack retrieval
-   ☑ Commit 2: 6c7e535 — docs: add W7D2 retrieval evaluation
-   ☑ Minimum 2 meaningful commits completed
-   ☑ git status checked
-   ☑ git log checked
+   â˜‘ Correct branch: feat/aiml-W7D2-ughandhar
+   â˜‘ Commit 1: 7f7bb4a â€” feat: complete W7D2 Haystack retrieval
+   â˜‘ Commit 2: 6c7e535 â€” docs: add W7D2 retrieval evaluation
+   â˜‘ Minimum 2 meaningful commits completed
+   â˜‘ git status checked
+   â˜‘ git log checked
 
 5. CIA / MENTOR
-   ☑ CIA interaction 1 completed
-   ☑ CIA interaction 2 completed
-   ☑ CIA review/evidence completed
-   ☑ CIA feedback recorded
+   â˜‘ CIA interaction 1 completed
+   â˜‘ CIA interaction 2 completed
+   â˜‘ CIA review/evidence completed
+   â˜‘ CIA feedback recorded
 
 6. SELF REVIEW
-   ☑ Technical work completed
-   ☑ Output evidence checked
-   ☑ Notebook saved
-   ☑ Evaluation documented
-   ☑ Self-review completed
+   â˜‘ Technical work completed
+   â˜‘ Output evidence checked
+   â˜‘ Notebook saved
+   â˜‘ Evaluation documented
+   â˜‘ Self-review completed
 
 7. SUBMISSION
-   ✓Branch push
-   ✓ PR creation
-   ✓ PR verification
-   W7D3 — FINAL REVIEW CHECKLIST
+   âœ“Branch push
+   âœ“ PR creation
+   âœ“ PR verification
+   W7D3 â€” FINAL REVIEW CHECKLIST
 
 8. LLAMAINDEX PIPELINE
-   ☑ LlamaIndex 0.14.25 installed and working
-   ☑ Ollama embedding integration configured
-   ☑ nomic-embed-text embedding model used
-   ☑ Embedding dimension: 768
-   ☑ 5 text documents indexed
-   ☑ VectorStoreIndex created
-   ☑ Ollama qwen2.5:3b LLM configured
-   ☑ QueryEngine created successfully
+   â˜‘ LlamaIndex 0.14.25 installed and working
+   â˜‘ Ollama embedding integration configured
+   â˜‘ nomic-embed-text embedding model used
+   â˜‘ Embedding dimension: 768
+   â˜‘ 5 text documents indexed
+   â˜‘ VectorStoreIndex created
+   â˜‘ Ollama qwen2.5:3b LLM configured
+   â˜‘ QueryEngine created successfully
 
 9. TEXT DOCUMENTS
-   ☑ pid_controller.txt
-   ☑ ros2.txt
-   ☑ computer_vision.txt
-   ☑ autonomous_vehicles.txt
-   ☑ machine_learning.txt
+   â˜‘ pid_controller.txt
+   â˜‘ ros2.txt
+   â˜‘ computer_vision.txt
+   â˜‘ autonomous_vehicles.txt
+   â˜‘ machine_learning.txt
 
 10. QUESTION EVALUATION
-    ☑ 10 queries tested
-    ☑ 10/10 answers generated successfully
-    ☑ Answers verified against source documents
+    â˜‘ 10 queries tested
+    â˜‘ 10/10 answers generated successfully
+    â˜‘ Answers verified against source documents
 
 11. CHROMADB INTEGRATION
-    ☑ ChromaDB 1.5.9 installed
-    ☑ LlamaIndex Chroma integration 0.6.0 installed
-    ☑ ChromaDB PersistentClient configured
-    ☑ ChromaDB VectorStore created
-    ☑ ChromaDB VectorStoreIndex created
-    ☑ ChromaDB QueryEngine created
-    ☑ Same 10 queries tested with ChromaDB
+    â˜‘ ChromaDB 1.5.9 installed
+    â˜‘ LlamaIndex Chroma integration 0.6.0 installed
+    â˜‘ ChromaDB PersistentClient configured
+    â˜‘ ChromaDB VectorStore created
+    â˜‘ ChromaDB VectorStoreIndex created
+    â˜‘ ChromaDB QueryEngine created
+    â˜‘ Same 10 queries tested with ChromaDB
 
 12. LATENCY COMPARISON
-    ☑ Original VectorStoreIndex average: 9.2559 seconds
-    ☑ ChromaDB average: 14.5930 seconds
-    ☑ Difference: 5.3371 seconds
-    ☑ Latency change: +57.66%
-    ☑ W7D3_EVALUATION.md created
+    â˜‘ Original VectorStoreIndex average: 9.2559 seconds
+    â˜‘ ChromaDB average: 14.5930 seconds
+    â˜‘ Difference: 5.3371 seconds
+    â˜‘ Latency change: +57.66%
+    â˜‘ W7D3_EVALUATION.md created
 
 13. GIT
-    ☑ Correct branch: feat/aiml-W7D3-ughandhar
-    ☑ Commit 1: a186080 — feat: complete W7D3 LlamaIndex retrieval
-    ☑ Commit 2: W7D3 self-review
-    ☑ Minimum 2 meaningful commits completed
+    â˜‘ Correct branch: feat/aiml-W7D3-ughandhar
+    â˜‘ Commit 1: a186080 â€” feat: complete W7D3 LlamaIndex retrieval
+    â˜‘ Commit 2: W7D3 self-review
+    â˜‘ Minimum 2 meaningful commits completed
 
 14. SELF REVIEW
-    ☑ Technical work completed
-    ☑ Output evidence checked
-    ☑ Notebook saved
-    ☑ Evaluation documented
-    ☑ W7D3 self-review added
+    â˜‘ Technical work completed
+    â˜‘ Output evidence checked
+    â˜‘ Notebook saved
+    â˜‘ Evaluation documented
+    â˜‘ W7D3 self-review added
 
 15. SUBMISSION
-    ☑ GitHub branch pushed
-    ☑ Pull Request created
-    ☑ Pull Request verified
+    â˜‘ GitHub branch pushed
+    â˜‘ Pull Request created
+    â˜‘ Pull Request verified
 
-W7D3 STATUS: ☑ COMPLETE
+W7D3 STATUS: â˜‘ COMPLETE
 
-W7D4 — FINAL REVIEW CHECKLIST
+W7D4 â€” FINAL REVIEW CHECKLIST
 
 1. OLLAMA SETUP
-   ☑ Ollama 0.35.0 installed and working
-   ☑ llama3.2:3b available locally
-   ☑ qwen2.5:3b available locally
-   ☑ First local inference completed
+   â˜‘ Ollama 0.35.0 installed and working
+   â˜‘ llama3.2:3b available locally
+   â˜‘ qwen2.5:3b available locally
+   â˜‘ First local inference completed
 
 2. PYTHON OLLAMA API
-   ☑ W7D4 Python script created
-   ☑ Custom system prompt configured
-   ☑ llama3.2:3b used through Ollama API
-   ☑ 5 prompts tested successfully
-   ☑ Output saved to W7D4_output.txt
+   â˜‘ W7D4 Python script created
+   â˜‘ Custom system prompt configured
+   â˜‘ llama3.2:3b used through Ollama API
+   â˜‘ 5 prompts tested successfully
+   â˜‘ Output saved to W7D4_output.txt
 
 3. MODEL COMPARISON
-   ☑ 3 identical questions tested with llama3.2:3b
-   ☑ 3 identical questions tested with qwen2.5:3b
-   ☑ Accuracy compared
-   ☑ Clarity compared
-   ☑ Completeness compared
-   ☑ Technical detail compared
-   ☑ Overall quality documented
-   ☑ W7D4_MODEL_COMPARISON.md created
+   â˜‘ 3 identical questions tested with llama3.2:3b
+   â˜‘ 3 identical questions tested with qwen2.5:3b
+   â˜‘ Accuracy compared
+   â˜‘ Clarity compared
+   â˜‘ Completeness compared
+   â˜‘ Technical detail compared
+   â˜‘ Overall quality documented
+   â˜‘ W7D4_MODEL_COMPARISON.md created
 
 4. W7D4 FILES
-   ☑ W7D4_ollama_local_rag.py
-   ☑ W7D4_output.txt
-   ☑ W7D4_MODEL_COMPARISON.md
+   â˜‘ W7D4_ollama_local_rag.py
+   â˜‘ W7D4_output.txt
+   â˜‘ W7D4_MODEL_COMPARISON.md
 
 5. GIT
-   ☑ W7D4 technical commit
-   ☑ W7D4 self-review commit
-   ☑ Minimum 2 meaningful commits
+   â˜‘ W7D4 technical commit
+   â˜‘ W7D4 self-review commit
+   â˜‘ Minimum 2 meaningful commits
 
 6. SUBMISSION
-   ☑ Git status verification
-   ☑ Git log verification
-   ☑ Branch push
-   ☑ PR creation
-   ☑ PR verification
+   â˜‘ Git status verification
+   â˜‘ Git log verification
+   â˜‘ Branch push
+   â˜‘ PR creation
+   â˜‘ PR verification
 
-## W7D5 — Multi-Document RAG Self-Review
+## W7D5 â€” Multi-Document RAG Self-Review
 
 ### Completed
 
@@ -992,7 +992,7 @@ W7D4 — FINAL REVIEW CHECKLIST
 - [x] Completed final verification.
 - [x] Pushed the branch and created and verified the pull request.
 
-# W8D1 Self-Review Checklist — Production RAG: Evaluation & Optimisation
+# W8D1 Self-Review Checklist â€” Production RAG: Evaluation & Optimisation
 
 ## Dockerised ML API
 
@@ -1040,7 +1040,7 @@ W7D4 — FINAL REVIEW CHECKLIST
 - Monitoring thresholds are initial examples and require tuning.
 - The current API is a minimal health-check example, not a complete RAG serving pipeline.
 
-## W8D2 — LangChain RAG Evaluation
+## W8D2 â€” LangChain RAG Evaluation
 
 - Built a RAG pipeline using LangChain and ChromaDB.
 - Generated 10 question-answer pairs and evaluated baseline results.
@@ -1057,7 +1057,7 @@ W7D4 — FINAL REVIEW CHECKLIST
 
 - Technical work and initial Git commit completed.
 - Mentor evidence, second commit, push, and PR verification completed.
-  W8D3 — Haystack Pipeline and Retrieval Evaluation
+  W8D3 â€” Haystack Pipeline and Retrieval Evaluation
   [x] Loaded and indexed 5 robotics PDF documents.
 
 [x] Tested BM25 retrieval with 10 questions.
@@ -1074,15 +1074,15 @@ W7D4 — FINAL REVIEW CHECKLIST
 
 [x] Verify at least 2 meaningful Git commits, push branch, and create PR.git status --short
 
-# W8D4: Documentation, Testing & Code Review — Completion Checklist
+# W8D4: Documentation, Testing & Code Review â€” Completion Checklist
 
-### 🎯 Learning Objective & Stack
+### ðŸŽ¯ Learning Objective & Stack
 
 - [x] Completed hands-on tasks for Documentation, Testing & Code Review using the approved AI/ML 3M stack (CrewAI, LangGraph, MLflow, Ragas, MLOps)
 
 ---
 
-### ⚙️ Practical Tasks
+### âš™ï¸ Practical Tasks
 
 - [x] Completed the assigned task following the approved stack for AI/ML 3M
 - [x] Written clean, commented code and executed tests successfully
@@ -1090,7 +1090,7 @@ W7D4 — FINAL REVIEW CHECKLIST
 
 ---
 
-### 🌿 Git Tasks
+### ðŸŒ¿ Git Tasks
 
 - [x] Branch created/used: `feat/aiml-w8-[your-name]`
 - [x] Minimum 2 commits with descriptive messages pushed
@@ -1098,28 +1098,28 @@ W7D4 — FINAL REVIEW CHECKLIST
 
 ---
 
-### 🤖 CIA Tasks
+### ðŸ¤– CIA Tasks
 
-- [x] CIA → Full Stack Mentor Mode: Code review obtained prior to committing
+- [x] CIA â†’ Full Stack Mentor Mode: Code review obtained prior to committing
 - [x] Minimum 2 CIA interactions completed and logged for evaluation
 
 ---
 
-### 📦 Deliverables
+### ðŸ“¦ Deliverables
 
 - [x] Working code committed to Git branch
 - [x] Output evidence provided (screenshot / notebook output)
 - [x] Self-review checklist completed
 
-# W8D5: 2M Capstone: Local AI Research Assistant — Completion Checklist
+# W8D5: 2M Capstone: Local AI Research Assistant â€” Completion Checklist
 
-### 🎯 Learning Objective & Stack
+### ðŸŽ¯ Learning Objective & Stack
 
-- [x] Completed hands-on tasks for 2M Capstone: Local AI Research Assistant using the approved AI/ML 3M stack (CrewAI · LangGraph · MLflow · Ragas · MLOps)
+- [x] Completed hands-on tasks for 2M Capstone: Local AI Research Assistant using the approved AI/ML 3M stack (CrewAI Â· LangGraph Â· MLflow Â· Ragas Â· MLOps)
 
 ---
 
-### ⚙️ Practical Tasks
+### âš™ï¸ Practical Tasks
 
 - [x] Completed the assigned task following the approved stack for AI/ML 3M
 - [x] Written clean, commented code and run all tests successfully
@@ -1127,7 +1127,7 @@ W7D4 — FINAL REVIEW CHECKLIST
 
 ---
 
-### 🌿 Git Tasks
+### ðŸŒ¿ Git Tasks
 
 - [x] Branch created/used: `feat/aiml-W8-[your-name]`
 - [x] Minimum 2 commits with descriptive messages created
@@ -1135,15 +1135,68 @@ W7D4 — FINAL REVIEW CHECKLIST
 
 ---
 
-### 🤖 CIA Tasks
+### ðŸ¤– CIA Tasks
 
-- [x] CIA → Full Stack Mentor Mode: Code review obtained prior to committing
+- [x] CIA â†’ Full Stack Mentor Mode: Code review obtained prior to committing
 - [x] Minimum 2 CIA interactions completed and logged for evaluation
 
 ---
 
-### 📦 Deliverables
+### ðŸ“¦ Deliverables
 
 - [x] Working code committed to Git branch
 - [x] Output evidence provided (screenshot / notebook output)
+- [x] Self-review checklist complete
+
+### ðŸŽ¯ Practical Tasks
+
+- [x] 1. Define 3 CrewAI agents: Researcher, Writer, Reviewer. Assign roles, goals, backstories.
+- [x] 2. Create tasks for each agent. Run the crew on a research topic. Review output quality.
+- [x] 3. Add a web search tool. Run crew again with real web data. Document improvement.
+- [x] 4. Commit: feat: crewai â€” multi-agent research crew
+
+### ðŸ”€ Git Tasks
+
+- [x] Branch: feat/aiml-W9D2-ughandhar
+- [x] Min 2 commits with descriptive messages
+  - [x] Commit 1: feat: define 3-agent research, writing, and review crew baseline
+  - [x] Commit 2: feat: crewai â€” multi-agent research crew with web search & code execution
+- [x] Push and raise PR before end of day
+
+### ðŸ¤– CIA Tasks
+
+- [x] CIA â†’ Full Stack Mentor Mode: Get code review before committing
+- [x] Minimum 2 CIA interactions â€” logged for evaluation
+  - [x] Interaction 1: Agent architecture, tool scoping, and delegation loop prevention
+  - [x] Interaction 2: Output quality verification, code execution review, and PR approval
+
+### ðŸ“¦ Deliverables
+
+- [x] Working code committed to Git branch
+- [x] Output evidence (screenshot / notebook output / final_research_report.md)
+- [x] Self-review checklist completed
+
+
+### ðŸŽ¯ Practical Tasks
+- [x] 1. Define 3 CrewAI agents: Researcher, Writer, Reviewer. Assign roles, goals, backstories.
+- [x] 2. Create tasks for each agent. Run the crew on a research topic. Review output quality.
+- [x] 3. Add a web search tool. Run crew again with real web data. Document improvement.
+- [x] 4. Commit: feat: crewai â€” multi-agent research crew
+
+### ðŸ”€ Git Tasks
+- [x] Branch: feat/aiml-W9D2-ughandhar
+- [x] Min 2 commits with descriptive messages
+  - [x] Commit 1: feat: define 3-agent research, writing, and review crew baseline
+  - [x] Commit 2: feat: crewai â€” multi-agent research crew with web search & code execution
+- [x] Push and raise PR before end of day
+
+### ðŸ¤– CIA Tasks
+- [x] CIA â†’ Full Stack Mentor Mode: Get code review before committing
+- [x] Minimum 2 CIA interactions â€” logged for evaluation
+  - [x] Interaction 1: Agent architecture, tool scoping, and delegation loop prevention
+  - [x] Interaction 2: Output quality verification, code execution review, and PR approval
+
+### ðŸ“¦ Deliverables
+- [x] Working code committed to Git branch
+- [x] Output evidence (screenshot / notebook output / final_research_report.md)
 - [x] Self-review checklist completed
