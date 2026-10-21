@@ -1200,3 +1200,27 @@ W7D4 â€” FINAL REVIEW CHECKLIST
 - [x] Working code committed to Git branch
 - [x] Output evidence (screenshot / notebook output / final_research_report.md)
 - [x] Self-review checklist completed
+
+## W9D3 - Building a Research Crew: Multi-Agent Pipeline
+
+### Practical Tasks
+- [x] Created Researcher, Writer, and Reviewer agents.
+- [x] Ran baseline and web-enhanced workflows.
+- [x] Added DuckDuckGo web search.
+- [x] Saved baseline, enhanced, and comparison evidence.
+- [ ] Verify actual reviewer feedback and tool invocation.
+
+### Git Tasks
+- [x] Branch: feat/aiml-W9D3-ughandhar
+- [x] Commit 1: e959d24 - CrewAI research crew and web search
+- [x] Commit 2: 29846a7 - W9D3 validation report
+- [ ] Push branch to GitHub.
+- [ ] Create pull request.
+
+### CIA Tasks
+- [ ] Complete required CIA Mentor Mode interactions.
+- [ ] Retain genuine interaction evidence.
+
+### Final Review
+- [ ] Verify notebook outputs and submission requirements.
+- [ ] Complete final self-review.
