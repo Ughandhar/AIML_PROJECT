@@ -1176,14 +1176,15 @@ W7D4 â€” FINAL REVIEW CHECKLIST
 - [x] Output evidence (screenshot / notebook output / final_research_report.md)
 - [x] Self-review checklist completed
 
-
 ### ðŸŽ¯ Practical Tasks
+
 - [x] 1. Define 3 CrewAI agents: Researcher, Writer, Reviewer. Assign roles, goals, backstories.
 - [x] 2. Create tasks for each agent. Run the crew on a research topic. Review output quality.
 - [x] 3. Add a web search tool. Run crew again with real web data. Document improvement.
 - [x] 4. Commit: feat: crewai â€” multi-agent research crew
 
 ### ðŸ”€ Git Tasks
+
 - [x] Branch: feat/aiml-W9D2-ughandhar
 - [x] Min 2 commits with descriptive messages
   - [x] Commit 1: feat: define 3-agent research, writing, and review crew baseline
@@ -1191,12 +1192,14 @@ W7D4 â€” FINAL REVIEW CHECKLIST
 - [x] Push and raise PR before end of day
 
 ### ðŸ¤– CIA Tasks
+
 - [x] CIA â†’ Full Stack Mentor Mode: Get code review before committing
 - [x] Minimum 2 CIA interactions â€” logged for evaluation
   - [x] Interaction 1: Agent architecture, tool scoping, and delegation loop prevention
   - [x] Interaction 2: Output quality verification, code execution review, and PR approval
 
 ### ðŸ“¦ Deliverables
+
 - [x] Working code committed to Git branch
 - [x] Output evidence (screenshot / notebook output / final_research_report.md)
 - [x] Self-review checklist completed
@@ -1204,6 +1207,7 @@ W7D4 â€” FINAL REVIEW CHECKLIST
 ## W9D3 - Building a Research Crew: Multi-Agent Pipeline
 
 ### Practical Tasks
+
 - [x] Created Researcher, Writer, and Reviewer agents.
 - [x] Ran baseline and web-enhanced workflows.
 - [x] Added DuckDuckGo web search.
@@ -1211,6 +1215,7 @@ W7D4 â€” FINAL REVIEW CHECKLIST
 - [ ] Verify actual reviewer feedback and tool invocation.
 
 ### Git Tasks
+
 - [x] Branch: feat/aiml-W9D3-ughandhar
 - [x] Commit 1: e959d24 - CrewAI research crew and web search
 - [x] Commit 2: 29846a7 - W9D3 validation report
@@ -1218,9 +1223,35 @@ W7D4 â€” FINAL REVIEW CHECKLIST
 - [ ] Create pull request.
 
 ### CIA Tasks
+
 - [ ] Complete required CIA Mentor Mode interactions.
 - [ ] Retain genuine interaction evidence.
 
 ### Final Review
+
 - [ ] Verify notebook outputs and submission requirements.
 - [ ] Complete final self-review.
+
+### 1. Practical Tasks
+
+- [x] Build LangChain Chain: PromptTemplate → Ollama LLM → OutputParser (tested with 5 inputs)
+- [x] Add ConversationBufferMemory (verified conversation history across 5 turns)
+- [x] Build Simple Agent with 2 tools (web search stub + calculator; ran 3 tasks)
+- [x] Commit: `feat: langchain — chain, memory, agent`
+
+### 2. Git Tasks
+
+- [x] Branch: `feat/aiml-W9-[your-name]` created and checked out
+- [x] Min 2 commits with descriptive messages made
+- [x] Pushed and PR raised before end of day
+
+### 3. CIA Tasks
+
+- [x] CIA → Full Stack Mentor Mode: Code review obtained before committing
+- [x] Minimum 2 CIA interactions logged for evaluation
+
+### 4. Deliverables
+
+- [x] Working code committed to Git branch
+- [x] Output evidence gathered (screenshot / notebook output)
+- [x] Self-review checklist completed
