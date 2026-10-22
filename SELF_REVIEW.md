@@ -1255,3 +1255,26 @@ W7D4 â€” FINAL REVIEW CHECKLIST
 - [x] Working code committed to Git branch
 - [x] Output evidence gathered (screenshot / notebook output)
 - [x] Self-review checklist completed
+
+### 1. Practical Tasks
+
+- [x] Complete assigned tasks following the approved stack (CrewAI, LangGraph, MLflow, Ragas, MLOps)
+- [x] Write clean, commented code and run tests
+- [x] Commit with a descriptive message and push to branch
+
+### 2. Git Tasks
+
+- [x] Branch: `feat/aiml-W9-[your-name]` created and checked out
+- [x] Min 2 commits with descriptive messages made
+- [x] Pushed and PR raised before end of day
+
+### 3. CIA Tasks
+
+- [x] CIA → Full Stack Mentor Mode: Code review obtained before committing
+- [x] Minimum 2 CIA interactions logged for evaluation
+
+### 4. Deliverables
+
+- [x] Working code committed to Git branch
+- [x] Output evidence gathered (screenshot / notebook output)
+- [x] Self-review checklist completed
