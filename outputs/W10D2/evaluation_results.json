@@ -1,0 +1,47 @@
+{
+  "assignment": "W10D2 - LangGraph State Machines & Conditional Edges",
+  "classification_tests": {
+    "total": 5,
+    "passed": 5,
+    "failed": 0,
+    "results": [
+      {
+        "input": "Hello there!",
+        "category": "greeting",
+        "route": "friendly_greeting",
+        "response": "Hello! How can I help you today?"
+      },
+      {
+        "input": "My Python code has an error",
+        "category": "technical",
+        "route": "technical_support",
+        "response": "I can help troubleshoot this technical issue: My Python code has an error"
+      },
+      {
+        "input": "How does a robot use computer vision?",
+        "category": "question",
+        "route": "answer_question",
+        "response": "Let's work through your question: How does a robot use computer vision?"
+      },
+      {
+        "input": "Explain LangGraph to me",
+        "category": "question",
+        "route": "answer_question",
+        "response": "Let's work through your question: Explain LangGraph to me"
+      },
+      {
+        "input": "Today I worked on my project",
+        "category": "general",
+        "route": "general_response",
+        "response": "Thanks for sharing. Tell me more about: Today I worked on my project"
+      }
+    ]
+  },
+  "human_review": {
+    "graph_compiled": true,
+    "interrupt_detected": true,
+    "resumed_successfully": true,
+    "interrupt_pending_after_resume": false,
+    "final_response": "Computer vision helps robots interpret camera images to detect objects, estimate positions, and navigate their environment."
+  }
+}
