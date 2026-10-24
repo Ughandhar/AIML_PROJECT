@@ -1278,3 +1278,27 @@ W7D4 â€” FINAL REVIEW CHECKLIST
 - [x] Working code committed to Git branch
 - [x] Output evidence gathered (screenshot / notebook output)
 - [x] Self-review checklist completed
+
+### 1. Practical Tasks
+
+- [x] Build a LangGraph graph with 3 nodes: classify → route → respond (tested with 5 inputs)
+- [x] Add conditional edges based on classification output (verified routing is correct)
+- [x] Add a human-in-the-loop interrupt (tested: pause, get human input, resume)
+- [x] Commit: `feat: langgraph — stateful agent graph with routing`
+
+### 2. Git Tasks
+
+- [x] Branch: `feat/aiml-W10-[your-name]` created and checked out
+- [x] Min 2 commits with descriptive messages made
+- [x] Pushed and PR raised before end of day
+
+### 3. CIA Tasks
+
+- [x] CIA → Full Stack Mentor Mode: Code review obtained before committing
+- [x] Minimum 2 CIA interactions logged for evaluation
+
+### 4. Deliverables
+
+- [x] Working code committed to Git branch
+- [x] Output evidence gathered (screenshot / notebook output)
+- [x] Self-review checklist completed

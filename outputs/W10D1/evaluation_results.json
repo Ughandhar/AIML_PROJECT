@@ -1,0 +1,62 @@
+{
+  "day": "W10D1",
+  "project": "LangGraph Stateful Agent Graphs",
+  "timestamp_utc": "2026-10-24T13:14:38.219969+00:00",
+  "graph_nodes": [
+    "classify",
+    "route",
+    "respond"
+  ],
+  "conditional_routing": true,
+  "five_input_tests": {
+    "passed": 5,
+    "total": 5,
+    "results": [
+      {
+        "test": 1,
+        "expected_category": "greeting",
+        "actual_category": "greeting",
+        "route": "friendly_greeting",
+        "passed": true
+      },
+      {
+        "test": 2,
+        "expected_category": "technical",
+        "actual_category": "technical",
+        "route": "technical_support",
+        "passed": true
+      },
+      {
+        "test": 3,
+        "expected_category": "question",
+        "actual_category": "question",
+        "route": "answer_question",
+        "passed": true
+      },
+      {
+        "test": 4,
+        "expected_category": "question",
+        "actual_category": "question",
+        "route": "answer_question",
+        "passed": true
+      },
+      {
+        "test": 5,
+        "expected_category": "general",
+        "actual_category": "general",
+        "route": "general_response",
+        "passed": true
+      }
+    ]
+  },
+  "human_in_the_loop": {
+    "pause_detected": true,
+    "resumed_successfully": true,
+    "human_response_applied": true
+  },
+  "limitations": [
+    "Classification uses keyword rules, not an LLM.",
+    "The human-review checkpoint uses in-memory storage and is not persistent across process restarts.",
+    "Test inputs cover a small set of predefined examples."
+  ]
+}
